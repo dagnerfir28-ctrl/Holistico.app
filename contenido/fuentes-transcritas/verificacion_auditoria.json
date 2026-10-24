@@ -1,0 +1,29 @@
+{
+ "fecha": "2026-10-23",
+ "landing": {
+  "url": "https://retirosholsticos.lovable.app/",
+  "estilos_verificados_en_css": {
+   "body_bg": "#0F0816 (rgb 15,8,22)", "texto": "#F5F3F7", "dorado": "#F6CE55 (eyebrows); degradado dorado #F6CE55→#F9A91F en titular",
+   "tipografias": "Playfair Display 700 (títulos) · Inter (texto, botones)",
+   "boton_cta": "Inter 18px 700, blanco, linear-gradient(135deg,#40136C,#B31AE6 60%,#E955F6), radio 9999px, padding 24px 48px, glow rgba(204,68,240,.52) 0 0 42px",
+   "tarjeta": "linear-gradient(145deg,#261434,#170B22), borde 1px rgba(87,46,107,.3), radio 24px, padding 32px, sombra 0 20px 60px -20px rgba(97,15,138,.6)",
+   "fondo": "radial-gradient(ellipse at top, hsl(280 60% 18%) 0%, hsl(270 50% 6%) 60%)",
+   "tokens_hsl": {"background": "270 45% 6%", "foreground": "280 20% 96%", "card": "270 40% 10%", "primary": "280 75% 60%", "primary-glow": "290 90% 70%", "primary-deep": "270 70% 35%", "secondary": "270 30% 18%", "muted": "270 25% 16%", "muted-foreground": "280 10% 70%", "accent": "45 90% 65%", "border": "280 30% 20%", "destructive": "0 75% 55%", "success": "150 60% 50%", "radius": "1rem"},
+   "escala_desktop": "H1 72px/72 · H2 48px/48 · H3 24px/32 · párrafo 18px/28 · subtítulo 20px/28 peso 300 · eyebrow 14px 600 mayúsculas tracking 3.5px dorado"
+  },
+  "vigente": ["Titular y subtítulo", "Precio Bs139 → 80% OFF → Bs52", "+2.000 Descargas y 4.9/5 visibles", "Notificación 'Camila — Bolivia acaba de unirse'", "Muestras: Respiración Consciente, Templo Interior, Círculo de Gratitud (imágenes de páginas reales)"],
+  "cambios_o_novedades": ["Las categorías ahora se presentan como Apertura, Conexión, Emocionales, Integración y Cierre (con 'Facilita liberación, sanación y procesos profundos con total seguridad').", "'Son más de 120 páginas de contenido práctico'.", "Pie: '© 2026 · 67 Dinámicas Guiadas para Retiros Transformadores'.", "FAQ: el formato se describe como 'PDF descargable'; el asistente como 'recurso complementario incluido sin costo adicional'."],
+  "no_se_modifica": true
+ },
+ "checkout": {
+  "url": "https://pay.hotmart.com/U105708058K?checkoutMode=10",
+  "vigente": ["Producto: Más de 60 Dinámicas para Retiros Holísticos", "Autor: Edutech", "Bolivia: Bs 87,00", "Débito/Crédito y PayPal", "4 adicionales a Bs 44,00 (50% sobre ~Bs 88) no incluidos en el total"],
+  "no_visible_en_esta_lectura": ["Contador 00:00:00", "'3 cupos disponibles'", "Texto de garantía de 7 días"],
+  "no_se_modifica": true
+ },
+ "asistente_existente": {
+  "url": "https://asistente-holistico.vercel.app/",
+  "estado": "Carga sin cuenta. Afirma estar 'entrenado con el contenido completo de las +60 dinámicas'. No se realizaron consultas nuevas (para no consumir créditos del servicio).",
+  "no_se_modifica": true
+ }
+}

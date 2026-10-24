@@ -1,0 +1,480 @@
+[
+ {
+  "page": 40,
+  "sep_page": 39,
+  "sep": "18. Conexión con la Naturaleza",
+  "header": "DINÁMICA 18 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+  "title": "Conexión con la Naturaleza",
+  "subtitle": "Una experiencia para reconectar con la calma, los sentidos y el entorno natural",
+  "meta": [
+   [
+    "Duración",
+    "60 – 90 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Exterior"
+   ],
+   [
+    "Espacio",
+    "Naturaleza abierta"
+   ],
+   [
+    "Energía",
+    "Enraizante · Sensorial"
+   ]
+  ],
+  "contexto": "La naturaleza tiene una forma única de devolvernos al presente. Esta dinámica invita a los participantes a desacelerar, observar con más atención y conectar con el entorno desde una experiencia consciente y sensorial.",
+  "objetivo": "Invitar a los participantes a reconectar con el entorno natural desde la presencia plena, activando los sentidos como puerta de regreso al momento presente.",
+  "materiales": [],
+  "secciones": [
+   {
+    "titulo": "Espacios recomendados",
+    "items": [
+     "Bosque o zona arbolada tranquila",
+     "Jardín o parque con poca afluencia",
+     "Playa, ribera o zona de agua",
+     "Montaña o terreno natural abierto"
+    ]
+   },
+   {
+    "titulo": "Sentidos a activar durante el recorrido",
+    "items": [
+     "Colores y formas",
+     "Sonidos del entorno",
+     "Texturas y superficies",
+     "Temperatura y viento",
+     "Contacto con el suelo",
+     "Aromas naturales"
+    ]
+   },
+   {
+    "titulo": "Frases para acompañar el recorrido",
+    "tipo": "frases",
+    "items": [
+     "Observa sin necesidad de interpretar.",
+     "Permite que el entorno también forme parte de la experiencia.",
+     "Respira con calma y vuelve al presente."
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Reúne al grupo en el espacio natural y presenta la intención: caminar en silencio, observar el entorno con presencia y dejar de lado conversaciones y distracciones externas."
+    ]
+   },
+   {
+    "fase": "Recorrido sensorial",
+    "tiempo": "30 – 45 minutos",
+    "texto": [
+     "Invita al grupo a caminar lentamente y en silencio, activando los seis sentidos de la tabla superior. Acompaña con las frases guía de forma espaciada."
+    ],
+    "nota": "Durante el recorrido, invita a cada participante a recolectar un elemento natural — hoja, piedra, rama — que represente algo significativo para ellos en este momento."
+   },
+   {
+    "fase": "Integración",
+    "tiempo": "15 – 20 minutos",
+    "texto": [
+     "Reúne nuevamente al grupo e invita a compartir qué elemento eligieron y qué significado tuvo para ellos durante la experiencia."
+    ]
+   },
+   {
+    "fase": "Cierre",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Finaliza recordando que no se trata de encontrar respuestas, sino de crear un momento de presencia, observación y conexión genuina con el entorno."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Camina tú también en silencio durante el recorrido — tu presencia modela el estado de calma que invitas al grupo a habitar.",
+   "Elige el espacio con antelación y recórrelo tú primero para asegurarte de que sea seguro y tranquilo.",
+   "El elemento recolectado puede quedarse con el participante como recordatorio de la experiencia — un objeto pequeño que conecte con el retiro."
+  ]
+ },
+ {
+  "page": 42,
+  "sep_page": 41,
+  "sep": "19. Ritual de Gratitud Colectiva",
+  "header": "DINÁMICA 19 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+  "title": "Ritual de Gratitud Colectiva",
+  "subtitle": "Un momento para reconocer, agradecer y honrar la experiencia compartida",
+  "meta": [
+   [
+    "Duración",
+    "45 – 60 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Ritual"
+   ],
+   [
+    "Momento",
+    "Cierre del retiro"
+   ],
+   [
+    "Energía",
+    "Cálida · Integradora"
+   ]
+  ],
+  "contexto": "La gratitud tiene la capacidad de transformar la manera en que vivimos y recordamos una experiencia. Esta dinámica invita al grupo a cerrar un momento importante del retiro desde el reconocimiento, la presencia y la conexión humana.",
+  "objetivo": "Crear un espacio colectivo de reconocimiento y cierre donde cada participante pueda nombrar aquello que dejó huella en la experiencia vivida, integrando el retiro desde la gratitud.",
+  "materiales": [
+   "Espacio en círculo con luz cálida",
+   "Velas o elementos naturales al centro",
+   "Música suave solo para la apertura",
+   "Papel para reflexionar antes de compartir (opcional)"
+  ],
+  "secciones": [
+   {
+    "titulo": "¿Qué pueden agradecer los participantes?",
+    "items": [
+     "Una experiencia vivida durante el retiro",
+     "Un aprendizaje o descubrimiento personal",
+     "Una persona o conexión que surgió",
+     "Una emoción o parte de sí mismo que reconoció"
+    ]
+   },
+   {
+    "titulo": "Frases para acompañar la experiencia",
+    "tipo": "frases",
+    "items": [
+     "La gratitud también es una forma de presencia.",
+     "Reconocer lo vivido nos ayuda a integrarlo.",
+     "A veces, los momentos más simples son los que más transforman."
+    ]
+   },
+   {
+    "titulo": "Gestos colectivos de cierre",
+    "items": [
+     "Encender una vela como símbolo de la luz que cada persona lleva consigo al salir",
+     "Un abrazo grupal o gesto de contacto consciente entre todos",
+     "Unas respiraciones colectivas en silencio como sello final compartido"
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Prepara el espacio íntimo en círculo con luz cálida y velas. Comienza con una breve respiración consciente o un momento de silencio para conectar emocionalmente con la experiencia vivida."
+    ]
+   },
+   {
+    "fase": "Reflexión personal",
+    "tiempo": "5 – 10 minutos",
+    "texto": [
+     "Invita a los participantes a tomarse unos minutos en silencio para conectar con aquello que desean agradecer. Pueden escribirlo brevemente o simplemente dejarlo surgir desde el interior."
+    ]
+   },
+   {
+    "fase": "Compartir colectivo",
+    "tiempo": "25 – 30 minutos",
+    "texto": [
+     "Cada participante comparte en voz alta aquello por lo que se siente agradecido, si así lo desea."
+    ],
+    "nota": "Anima al grupo a escuchar desde la presencia y sin interrupciones. No se trata de decir algo perfecto, sino de reconocer aquello que realmente dejó huella."
+   },
+   {
+    "fase": "Ritual de cierre",
+    "tiempo": "5 – 10 minutos",
+    "texto": [
+     "Acompaña el cierre con uno de los gestos colectivos de la sección inferior para sellar la experiencia con presencia y significado."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Comparte tú también tu gratitud — modela la apertura emocional que invitas al grupo a vivir.",
+   "Recibe cada agradecimiento con silencio y presencia — evita comentarios o aplausos que rompan la atmósfera ceremonial.",
+   "Usa esta dinámica como cierre del retiro — su energía de reconocimiento e integración es perfecta para sellar la experiencia colectiva."
+  ]
+ },
+ {
+  "page": 44,
+  "sep_page": 43,
+  "sep": "20. Visualización del Futuro",
+  "header": "DINÁMICA 20 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+  "title": "Visualización del Futuro",
+  "subtitle": "Una experiencia para conectar con la vida que deseas construir",
+  "meta": [
+   [
+    "Duración",
+    "45 – 60 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Visualización"
+   ],
+   [
+    "Nivel",
+    "Todos los niveles"
+   ],
+   [
+    "Energía",
+    "Expansiva · Esperanzadora"
+   ]
+  ],
+  "contexto": "A veces necesitamos detenernos unos minutos para recordar hacia dónde realmente queremos ir. Esta dinámica invita a los participantes a visualizar con mayor claridad la vida, la energía y las experiencias que desean comenzar a crear a partir de este momento.",
+  "objetivo": "Conectar a los participantes con una visión más clara y consciente de la vida que desean construir, guiándolos desde las emociones y sensaciones más que desde los objetivos materiales.",
+  "materiales": [
+   "Esterillas, cojines o sillas cómodas",
+   "Música suave o sonidos naturales",
+   "Iluminación tenue para favorecer la calma",
+   "Papel y bolígrafos para integración escrita"
+  ],
+  "secciones": [
+   {
+    "titulo": "Preguntas guía de la visualización",
+    "tipo": "preguntas",
+    "items": [
+     "¿Cómo se siente esa versión futura de ti?",
+     "¿Qué decisiones comenzó a tomar?",
+     "¿Qué dejó atrás para llegar hasta ahí?",
+     "¿Qué energía transmite su vida hoy?"
+    ],
+    "nota": "Guía hacia emociones y sensaciones más que hacia logros materiales. No es \"predecir el futuro\", sino conectar con una dirección más consciente y auténtica."
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Preparación",
+    "tiempo": "8 minutos",
+    "texto": [
+     "Prepara el ambiente tranquilo con música suave e iluminación tenue. Invita al grupo a recostarse o sentarse cómodamente. Guía unas respiraciones lentas para relajar el cuerpo y conectar con el momento presente."
+    ]
+   },
+   {
+    "fase": "Visualización guiada",
+    "tiempo": "20 – 25 minutos",
+    "texto": [
+     "Invita a los participantes a imaginar una versión futura de sí mismos viviendo una vida más alineada, plena y consciente. Acompaña con las cuatro preguntas guía de forma lenta y espaciada."
+    ],
+    "citas": [
+     "Invita a conectar no solo con imágenes, sino también con las emociones y sensaciones que aparecen durante la experiencia."
+    ]
+   },
+   {
+    "fase": "Silencio e integración",
+    "tiempo": "5 – 8 minutos",
+    "texto": [
+     "Permite unos minutos de silencio al finalizar la visualización para que cada participante integre lo vivido desde la calma antes de volver al espacio compartido."
+    ]
+   },
+   {
+    "fase": "Escritura y cierre",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Invita a escribir algunas reflexiones, palabras o intenciones surgidas durante la práctica. Quienes lo deseen pueden compartir brevemente con el grupo."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Narra en tiempo presente — \"eres\", \"sientes\", \"vives\" — para que el cuerpo y la mente vivan la experiencia como real, no como fantasía.",
+   "Evita describir logros materiales concretos — guía hacia estados emocionales, calidad de vida y relaciones, que son universales y no limitan la experiencia.",
+   "Respeta el silencio posterior — algunos participantes necesitan más tiempo para integrar; no apresures el regreso al espacio grupal."
+  ],
+  "verificado": "Fase «Preparación» verificada con una segunda captura ampliada."
+ },
+ {
+  "page": 46,
+  "sep_page": 45,
+  "sep": "21. Viaje a través de los Chakras",
+  "header": "DINÁMICA 20 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+  "duplicate_of_page": 44,
+  "note": "Página 46 idéntica píxel a píxel a la página 44 (Visualización del Futuro). El desarrollo de 'Viaje a través de los Chakras' no existe en el PDF principal."
+ },
+ {
+  "page": 48,
+  "sep_page": 47,
+  "sep": "22. Espejo de las Sombras",
+  "header": "DINÁMICA 22 · TRABAJANDO CON LOS CHAKRAS Y LA ENERGÍA",
+  "title": "Espejo de las Sombras",
+  "subtitle": "Una experiencia para reconocer y abrazar las partes de nosotros que solemos evitar",
+  "meta": [
+   [
+    "Duración",
+    "60 – 75 minutos"
+   ],
+   [
+    "Tipo",
+    "Individual · Escritura"
+   ],
+   [
+    "Nivel",
+    "Profundo"
+   ],
+   [
+    "Energía",
+    "Honesta · Compasiva"
+   ]
+  ],
+  "contexto": "Muchas veces, aquello que más rechazamos de nosotros mismos también guarda aprendizajes importantes. Esta dinámica invita a los participantes a observar con honestidad ciertas emociones, patrones o aspectos personales que normalmente intentan ocultar, negar o evitar.",
+  "objetivo": "Crear un espacio seguro de introspección donde los participantes puedan observar sus sombras personales con consciencia y compasión, sin juzgarlas ni intentar eliminarlas.",
+  "materiales": [
+   "Papel y bolígrafos",
+   "Iluminación tenue y música suave",
+   "Pañuelos disponibles",
+   "Espacio con mayor intimidad y silencio"
+  ],
+  "secciones": [
+   {
+    "titulo": "Aspectos que puede explorar la sombra",
+    "items": [
+     "Miedos",
+     "Inseguridades",
+     "Enojo",
+     "Culpa",
+     "Autoexigencia",
+     "Emociones reprimidas"
+    ],
+    "nota": "La intención no es juzgar ni \"eliminar\" esas partes, sino observarlas con más consciencia y compasión. Todas forman parte de la experiencia humana."
+   },
+   {
+    "titulo": "Preguntas de reflexión",
+    "tipo": "preguntas",
+    "items": [
+     "¿Qué parte de mí suelo esconder de los demás?",
+     "¿Qué emoción me cuesta más aceptar?",
+     "¿Qué intento controlar o evitar constantemente?",
+     "¿Qué necesitaría escuchar esa parte de mí?"
+    ],
+    "cita": "El crecimiento personal también implica aprender a mirar nuestras sombras con más comprensión y menos juicio."
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Crea un ambiente íntimo y emocionalmente seguro. Guía una breve reflexión sobre cómo todas las personas tienen partes luminosas y partes más incómodas, y cómo ambas forman parte de la experiencia humana."
+    ]
+   },
+   {
+    "fase": "Reflexión e introspección",
+    "tiempo": "30 – 35 minutos",
+    "texto": [
+     "Invita al grupo a escribir o reflexionar sobre los aspectos de su sombra usando las preguntas guía. Permite que el proceso ocurra desde la introspección, en silencio y sin presión de compartir."
+    ]
+   },
+   {
+    "fase": "Integración",
+    "tiempo": "10 – 15 minutos",
+    "texto": [
+     "Invita al grupo a respirar profundamente y reconocer que observar las sombras con compasión ya es un acto de crecimiento. Abre un pequeño espacio voluntario para compartir reflexiones."
+    ]
+   },
+   {
+    "fase": "Cierre",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Cierra con una respiración colectiva y una frase de cierre que honre el coraje de mirar hacia adentro sin juzgarse."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Introduce el concepto de \"sombra\" con suavidad y sin dramatismo — no es lo oscuro que hay que temer, sino lo desconocido que merece ser visto.",
+   "Ten pañuelos disponibles y visibles — esta dinámica puede mover emociones profundas e inesperadas.",
+   "Nunca presiones a compartir — lo que cada persona descubra en su sombra le pertenece solo a ella."
+  ]
+ },
+ {
+  "page": 50,
+  "sep_page": 49,
+  "sep": "23. Ritual del Perdón",
+  "header": "DINÁMICA 23 · TRABAJANDO CON LOS CHAKRAS Y LA ENERGÍA",
+  "title": "Ritual del Perdón",
+  "subtitle": "Una experiencia para liberar emociones y crear espacio para una mayor paz interior",
+  "meta": [
+   [
+    "Duración",
+    "60 – 75 minutos"
+   ],
+   [
+    "Tipo",
+    "Individual · Ritual"
+   ],
+   [
+    "Nivel",
+    "Profundo"
+   ],
+   [
+    "Energía",
+    "Compasiva · Liberadora"
+   ]
+  ],
+  "contexto": "Perdonar no siempre significa olvidar lo vivido. A veces, significa dejar de cargar aquello que ya no queremos seguir sosteniendo dentro de nosotros. Esta dinámica invita a los participantes a reflexionar sobre emociones, heridas o situaciones que aún generan peso emocional, creando un espacio consciente de liberación y compasión.",
+  "objetivo": "Abrir un espacio seguro donde los participantes puedan explorar el perdón como un acto de liberación personal, comenzando a transformar la relación con aquello que aún genera peso emocional.",
+  "materiales": [
+   "Papel y bolígrafos",
+   "Velas e iluminación cálida",
+   "Música suave o cuencos tibetanos",
+   "Pañuelos disponibles"
+  ],
+  "secciones": [
+   {
+    "titulo": "Preguntas para acompañar la reflexión",
+    "tipo": "preguntas",
+    "items": [
+     "¿Qué emoción sigo cargando dentro de mí?",
+     "¿Qué parte de esta historia necesita más compasión?",
+     "¿Qué cambiaría en mí si dejara de sostener este peso emocional?"
+    ],
+    "cita": "El propósito no es justificar lo ocurrido, sino permitir que cada persona explore qué necesita soltar para recuperar más paz y ligereza interior."
+   },
+   {
+    "titulo": "Gestos simbólicos de cierre",
+    "items": [
+     "Romper el papel conscientemente como acto de soltar",
+     "Guardarlo en un sobre — para volver a él cuando el momento lo pida",
+     "Quemarlo de forma segura como símbolo de liberación",
+     "Sostener unos minutos de silencio consciente como cierre"
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Prepara el ambiente íntimo y tranquilo con velas y música suave. Guía unas respiraciones lentas e introduce el concepto del perdón como liberación personal, no como justificación de lo ocurrido."
+    ]
+   },
+   {
+    "fase": "Reflexión y escritura",
+    "tiempo": "25 – 30 minutos",
+    "texto": [
+     "Invita a cada participante a pensar en una persona, situación o experiencia que aún necesite comprensión, cierre o liberación emocional. Guía la reflexión con las preguntas de la sección superior."
+    ],
+    "nota": "La experiencia es completamente personal. No es necesario compartirlo ni explicarlo. Cada proceso tiene su propio ritmo y profundidad."
+   },
+   {
+    "fase": "Gesto simbólico",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Cuando todos hayan terminado, invita al grupo a realizar el gesto simbólico de cierre que más resuene con su proceso. Acompaña con presencia y silencio."
+    ]
+   },
+   {
+    "fase": "Integración y cierre",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Guía unas respiraciones profundas colectivas. Quienes lo deseen pueden compartir brevemente cómo se sienten. Cierra recordando que el perdón es un proceso, no un evento único."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Distingue claramente desde el inicio: perdonar no es justificar lo ocurrido, sino dejar de cargar el peso emocional que genera en uno mismo.",
+   "Ten pañuelos disponibles — esta dinámica puede mover emociones profundas. Sostén el espacio con calma sin intervenir ni apresurar el proceso.",
+   "Recuerda al grupo que el perdón también puede ser hacia uno mismo — a veces es la herida más difícil de sanar y la más importante de reconocer."
+  ]
+ }
+]

@@ -1,0 +1,45 @@
+[
+{
+ "page": 126, "sep_page": 125, "sep": "61 Y 62 Meditación de Reconexión Interior", "header": "DINÁMICA 61 · PRESENCIA Y ATENCIÓN PLENA",
+ "separator_mismatch": "El separador (p. 125) dice '61 Y 62', pero la página 126 desarrolla una sola dinámica (Dinámica 61). No existe una dinámica 62 en el PDF principal; el pie de página pasa de '60 / 63' a '61 / 63' y la siguiente ficha se numera 63.",
+ "title": "Meditación de Reconexión Interior",
+ "subtitle": "Una experiencia para volver al centro y escuchar lo que hoy necesita tu mundo interno",
+ "meta": [["Duración", "30 – 45 minutos"], ["Tipo", "Individual · Meditación"], ["Nivel", "Todos los niveles"], ["Energía", "Quieta · Receptiva"]],
+ "contexto": "En medio del ruido, las responsabilidades y las emociones acumuladas, muchas personas terminan desconectándose de sí mismas sin darse cuenta. Esta meditación invita a hacer una pausa consciente para reconectar con la respiración, las emociones y aquello que realmente necesitan en este momento de sus vidas.",
+ "objetivo": "Crear un espacio de escucha interior profunda donde los participantes puedan reconectar con sus emociones, pensamientos y necesidades reales — sin intentar cambiar nada, solo observar con presencia y compasión.",
+ "materiales": ["Cojines o esterillas para sentarse", "Música suave, sonidos naturales o silencio", "Iluminación tenue y cálida", "Papel para escribir al finalizar (opcional)"],
+ "secciones": [
+  {"titulo": "Las 4 capas de observación interior", "items": ["Las emociones · El clima interior — ¿Qué emociones están presentes ahora mismo? Sin nombrarlas ni analizarlas — solo sentirlas.", "Los pensamientos · El ruido de fondo — Observar qué está ocupando la mente — sin juzgarlo como bueno o malo, solo como información.", "Las sensaciones · El cuerpo que habla — Tensión, ligereza, calor, peso — el cuerpo siempre está comunicando algo sobre el estado interior.", "Las necesidades · Lo que pide ser atendido — ¿Qué necesita realmente tu mundo interno en este momento? Descanso, claridad, conexión, tiempo..."], "nota": "La intención no es alcanzar un estado perfecto de calma — sino crear un espacio de escucha más consciente. Lo que se observa sin juzgar, por sí solo, comienza a transformarse."},
+  {"titulo": "Frases para guiar la meditación", "tipo": "frases", "items": ["Permite que este momento sea un espacio para volver a ti.", "No necesitas resolverlo todo ahora — solo observarlo.", "Escucha aquello que tu interior lleva tiempo intentando decirte."]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Preparación", "tiempo": "5 minutos", "texto": ["Invita al grupo a sentarse o recostarse. Guía unas respiraciones lentas y profundas para liberar tensión y entrar en el momento presente antes de dirigir la atención hacia el interior."]},
+  {"fase": "Meditación de escucha", "tiempo": "20 – 28 minutos", "texto": ["Guía al grupo a través de las cuatro capas de observación interior. Dedica 4 a 5 minutos a cada capa con pausas largas. No hay análisis — solo observación suave y receptiva."], "citas": ["Volver a uno mismo no requiere llegar a ningún lugar — solo dejar de huir del lugar donde ya estás."]},
+  {"fase": "Transición lenta", "tiempo": "5 minutos", "texto": ["Invita a regresar muy despacio — sin prisa, sin abrir los ojos de golpe. Unos momentos de quietud antes de volver al espacio compartido."]},
+  {"fase": "Integración", "tiempo": "5 – 8 minutos", "texto": ["Quienes lo deseen escriben o comparten algo que emergió de la escucha interior. Cierra con una respiración colectiva de gratitud hacia el propio mundo interno."]}
+ ],
+ "recomendaciones": ["Esta meditación funciona especialmente bien en momentos de alta carga emocional del retiro — cuando el grupo necesita desacelerar y volver a sí mismo antes de continuar.", "No dirijas hacia lo que crees que el grupo necesita sentir — confía en el proceso de cada persona. Tu rol es crear el espacio, no llenar el interior de nadie.", "La transición lenta al finalizar es esencial — no cierres la meditación con música fuerte ni con palabras apresuradas. El interior necesita tiempo para volver al exterior."]
+},
+{
+ "page": 128, "sep_page": 127, "sep": "63. Dinámica de Conexión Humana", "header": "DINÁMICA 63 · CONEXIÓN Y EMPATÍA",
+ "numbering_note": "La ficha se presenta como 'Dinámica final · 63 de 63' aunque el PDF contiene 62 separadores y 60 desarrollos distintos (sin dinámica 62).",
+ "title": "Dinámica de Conexión Humana",
+ "subtitle": "Una experiencia para fortalecer la empatía, la cercanía y la autenticidad dentro del grupo",
+ "meta": [["Duración", "45 – 60 minutos"], ["Tipo", "Parejas · Grupos"], ["Nivel", "Todos los niveles"], ["Energía", "Humana · Vincular"]],
+ "contexto": "Muchas veces, las conexiones más profundas nacen de momentos simples donde las personas se sienten verdaderamente vistas y escuchadas. Esta dinámica invita a crear un espacio de encuentro más humano y consciente, favoreciendo conversaciones auténticas y presencia emocional real.",
+ "objetivo": "Profundizar la conexión humana dentro del grupo a través de conversaciones auténticas que van más allá de la superficie — creando encuentros donde cada persona se siente genuinamente vista, escuchada y acompañada.",
+ "materiales": ["Espacio cálido con iluminación íntima", "Música suave o silencio de fondo", "Disposición en parejas o grupos pequeños", "Pañuelos disponibles"],
+ "secciones": [
+  {"titulo": "Preguntas de conexión profunda", "tipo": "preguntas", "items": ["¿Qué momento de tu vida te transformó más profundamente?", "¿Qué valoras realmente en una conexión humana auténtica?", "¿Qué necesitas más en esta etapa de tu vida?", "¿Qué parte de ti deseas mostrar con más autenticidad?"], "nota": "No es necesario responder todas las preguntas — una sola pregunta explorada con honestidad y tiempo puede crear una conexión más profunda que cuatro respondidas superficialmente."},
+  {"titulo": "Formatos posibles para la dinámica", "items": ["Parejas rotativas — cada persona conversa con diferentes integrantes del grupo durante turnos de 8 a 10 minutos", "Grupos de tres — una persona habla, otra escucha y la tercera observa en silencio. Luego rotan los roles", "Parejas fijas — una sola pareja durante toda la sesión para mayor profundidad e intimidad en la conexión"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura y formato", "tiempo": "8 minutos", "texto": ["Presenta la intención y el formato elegido. Recuerda el acuerdo de escuchar sin interrumpir, sin aconsejar y sin intentar solucionar. Forma las parejas o grupos con intención."]},
+  {"fase": "Conversaciones", "tiempo": "30 – 40 minutos", "texto": ["Las parejas o grupos exploran las preguntas desde la autenticidad y la escucha presente. Tu rol es sostener el espacio, no dirigir las conversaciones."], "citas": ["Sentirse acompañado desde la autenticidad ya transforma la manera en que vivimos una experiencia grupal."]},
+  {"fase": "Cierre grupal", "tiempo": "8 – 10 minutos", "texto": ["Reúne al grupo y abre un pequeño espacio para compartir sensaciones o aprendizajes surgidos durante la dinámica. Cierra con una respiración colectiva de reconocimiento por el encuentro vivido."]}
+ ],
+ "recomendaciones": ["Forma las parejas con intención — a veces la conexión más significativa surge entre personas que menos se han hablado durante el retiro.", "Recuerda el acuerdo de escucha antes de comenzar — no interrumpir ni solucionar es la habilidad más difícil y más transformadora de esta dinámica.", "Esta dinámica cierra la guía completa — y puede cerrar también cualquier retiro con la misma fuerza con la que lo abrió. La conexión humana auténtica es el principio y el fin de todo."]
+}
+]

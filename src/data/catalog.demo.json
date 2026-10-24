@@ -1,0 +1,862 @@
+{
+ "schema": 1,
+ "generado": "2026-10-23",
+ "fuentes": {
+  "principal": {
+   "titulo": "Más de 60 dinámicas retiros holísticos .pdf",
+   "paginas": 129,
+   "drive": ""
+  }
+ },
+ "materialesCanonicos": [
+  {
+   "id": "cojines-esterillas",
+   "nombre": "Cojines o esterillas"
+  },
+  {
+   "id": "mantas",
+   "nombre": "Mantas"
+  },
+  {
+   "id": "sillas",
+   "nombre": "Sillas"
+  },
+  {
+   "id": "papel",
+   "nombre": "Papel u hojas"
+  },
+  {
+   "id": "boligrafos",
+   "nombre": "Bolígrafos o lápices"
+  },
+  {
+   "id": "colores",
+   "nombre": "Lápices de colores, pinturas o rotuladores"
+  },
+  {
+   "id": "papel-grande",
+   "nombre": "Papel grande o cartulina"
+  },
+  {
+   "id": "tarjetas",
+   "nombre": "Tarjetas para escribir"
+  },
+  {
+   "id": "tijeras-pegamento",
+   "nombre": "Tijeras y pegamento"
+  },
+  {
+   "id": "revistas",
+   "nombre": "Revistas, imágenes y frases para recortar"
+  },
+  {
+   "id": "compas-regla",
+   "nombre": "Compás, regla y lápiz"
+  },
+  {
+   "id": "pizarra",
+   "nombre": "Pizarra o papel grande para explicar"
+  },
+  {
+   "id": "velas",
+   "nombre": "Velas"
+  },
+  {
+   "id": "vela-central",
+   "nombre": "Vela central"
+  },
+  {
+   "id": "velas-individuales",
+   "nombre": "Una vela por participante"
+  },
+  {
+   "id": "fogata",
+   "nombre": "Fogata (si el espacio lo permite)"
+  },
+  {
+   "id": "cuenco-campana",
+   "nombre": "Cuenco tibetano o campana"
+  },
+  {
+   "id": "instrumentos",
+   "nombre": "Instrumentos de sonido"
+  },
+  {
+   "id": "tambor",
+   "nombre": "Tambor o grabación de tambor"
+  },
+  {
+   "id": "musica",
+   "nombre": "Música y equipo de sonido"
+  },
+  {
+   "id": "objeto-palabra",
+   "nombre": "Objeto para el bastón de la palabra"
+  },
+  {
+   "id": "panuelos",
+   "nombre": "Pañuelos desechables"
+  },
+  {
+   "id": "agua",
+   "nombre": "Agua para beber"
+  },
+  {
+   "id": "te",
+   "nombre": "Té o infusión"
+  },
+  {
+   "id": "vendas",
+   "nombre": "Vendas para los ojos"
+  },
+  {
+   "id": "ovillo",
+   "nombre": "Ovillo de lana o hilo resistente"
+  },
+  {
+   "id": "elementos-naturales",
+   "nombre": "Elementos naturales (flores, piedras, hojas, tierra)"
+  },
+  {
+   "id": "recipiente-agua-tierra",
+   "nombre": "Recipiente con agua o tierra"
+  },
+  {
+   "id": "incienso",
+   "nombre": "Incienso o aromas naturales"
+  },
+  {
+   "id": "cronometro",
+   "nombre": "Cronómetro o temporizador"
+  },
+  {
+   "id": "elementos-simbolicos",
+   "nombre": "Elementos simbólicos del retiro"
+  },
+  {
+   "id": "ropa-abrigo",
+   "nombre": "Ropa abrigada"
+  },
+  {
+   "id": "ropa-comoda",
+   "nombre": "Ropa y calzado cómodos"
+  }
+ ],
+ "opcionesConsentimiento": {
+  "voluntario": "Participar es voluntario: cualquier persona puede pasar, observar o detenerse en cualquier momento, sin dar explicaciones.",
+  "compartir": "Compartir siempre es opcional y vale decir «paso». Acuerden al inicio que lo compartido queda en el grupo.",
+  "ojos": "Quien lo prefiera puede mantener los ojos abiertos, con la mirada suave hacia el suelo.",
+  "escritura": "Nadie necesita leer ni mostrar lo que escribe; puede guardarlo, romperlo o conservarlo en privado.",
+  "contacto": "Pide permiso antes de cualquier contacto físico y ofrece una alternativa sin contacto (una mano en el propio pecho, una inclinación de cabeza o una mirada).",
+  "parejas": "Quien no quiera trabajar en pareja puede hacer la práctica de forma individual o acompañar como observador.",
+  "movimiento": "Cada persona elige su ritmo: moverse suavemente, quedarse sentada o acompañar desde la quietud también es participar.",
+  "fuego": "Ofrece siempre una alternativa sin fuego (romper, enterrar o guardar el papel) para quien prefiera no usarlo.",
+  "visualizacion": "Si una imagen resulta incómoda, se puede abrir los ojos, volver a la respiración o dejar la visualización y descansar.",
+  "exterior": "Si alguien no puede o no quiere caminar o salir, ofrece un lugar cómodo desde donde participar.",
+  "voz": "Quien prefiera no vocalizar puede escuchar en silencio y respirar con el grupo.",
+  "recibir": "Quien prefiera no recibir reconocimiento en voz alta puede pedir recibirlo en silencio o por escrito."
+ },
+ "incidenciasDocumento": {
+  "principal": {
+   "indice": null,
+   "pagina38": "",
+   "duplicados": [],
+   "separadorIncorrecto": [],
+   "fichasIncompletas": [],
+   "piesDePagina": ""
+  },
+  "edicion2": []
+ },
+ "resumen": {
+  "publicado": 3,
+  "revision": 0,
+  "borrador": 0,
+  "archivado": 0
+ },
+ "actividades": [
+  {
+   "id": "meditacion-respiracion-consciente",
+   "version": 1,
+   "estado": "publicado",
+   "motivoEstado": null,
+   "titulo": "Meditación de Respiración Consciente",
+   "subtitulo": "Una práctica para volver al presente desde la calma y la atención plena",
+   "resumen": "Una práctica para volver al presente desde la calma y la atención plena",
+   "contexto": null,
+   "objetivo": "Ayudar al grupo a reducir el ruido mental y conectar con el momento presente a través de la respiración consciente como ancla de atención.",
+   "momentos": [
+    "apertura",
+    "integracion"
+   ],
+   "temas": [
+    "respiración",
+    "atención plena",
+    "meditación"
+   ],
+   "formato": [
+    "grupo"
+   ],
+   "tipoFuente": "Grupal · Meditación",
+   "duracion": {
+    "min": 30,
+    "max": 40,
+    "texto": "30 – 40 minutos"
+   },
+   "notaDuracion": null,
+   "nivelFuente": "Apertura",
+   "energiaFuente": "Serena · Introspectiva",
+   "momentoFuente": null,
+   "enfoqueFuente": null,
+   "espacio": {
+    "tipo": "interior"
+   },
+   "participantes": null,
+   "materiales": [
+    {
+     "texto": "Cojines o esterillas",
+     "ids": [
+      "cojines-esterillas"
+     ],
+     "opcional": false
+    },
+    {
+     "texto": "Música suave de fondo (opcional)",
+     "ids": [
+      "musica"
+     ],
+     "opcional": true
+    },
+    {
+     "texto": "Campana o cuenco tibetano para marcar inicios y cierres (opcional)",
+     "ids": [
+      "cuenco-campana"
+     ],
+     "opcional": true
+    }
+   ],
+   "ambiente": [],
+   "consentimiento": [
+    {
+     "texto": "Participar es voluntario: cualquier persona puede pasar, observar o detenerse en cualquier momento, sin dar explicaciones.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Quien lo prefiera puede mantener los ojos abiertos, con la mirada suave hacia el suelo.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Compartir siempre es opcional y vale decir «paso». Acuerden al inicio que lo compartido queda en el grupo.",
+     "origen": "adaptacion"
+    }
+   ],
+   "criteriosPausa": [],
+   "cuandoUtilizar": [],
+   "cuandoEvitar": [],
+   "relacionadas": [],
+   "notasAdmin": [],
+   "propuestas": [],
+   "preparacion": [],
+   "experiencia": "inicial",
+   "intensidad": "suave",
+   "adaptaciones": [],
+   "secciones": [],
+   "fases": [
+    {
+     "id": "apertura",
+     "nombre": "Apertura",
+     "tipo": "apertura",
+     "tiempo": {
+      "min": 5,
+      "max": 5,
+      "texto": "5 minutos"
+     },
+     "pasos": [
+      "Invita a los participantes a sentarse cómodamente y cerrar suavemente los ojos.",
+      "Guía una breve llegada al momento presente a través de respiraciones lentas y profundas."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "respiracion-consciente",
+     "nombre": "Respiración consciente",
+     "tipo": "desarrollo",
+     "tiempo": {
+      "min": 10,
+      "max": 15,
+      "texto": "10 – 15 minutos"
+     },
+     "pasos": [
+      "Acompaña al grupo a observar el ritmo natural de su respiración, llevando la atención al aire entrando y saliendo del cuerpo."
+     ],
+     "citas": [
+      "No necesitas controlar la respiración, solo observarla.",
+      "Cada respiración es una oportunidad para volver al presente."
+     ],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "integracion",
+     "nombre": "Integración",
+     "tipo": "integracion",
+     "tiempo": {
+      "min": 10,
+      "max": 10,
+      "texto": "10 minutos"
+     },
+     "pasos": [
+      "Abre un pequeño espacio para compartir sensaciones, emociones o reflexiones surgidas durante la práctica."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "cierre",
+     "nombre": "Cierre",
+     "tipo": "cierre",
+     "tiempo": {
+      "min": 3,
+      "max": 3,
+      "texto": "3 minutos"
+     },
+     "pasos": [
+      "Finaliza con una respiración colectiva y unos segundos de silencio consciente compartido."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    }
+   ],
+   "queObservar": [],
+   "recomendaciones": [
+    {
+     "texto": "Mantén un tono pausado y sereno durante toda la práctica.",
+     "origen": "fuente"
+    },
+    {
+     "texto": "Permite los silencios naturales — son parte esencial del proceso.",
+     "origen": "fuente"
+    },
+    {
+     "texto": "Evita corregir o forzar la experiencia de los participantes; cada proceso es válido.",
+     "origen": "fuente"
+    }
+   ],
+   "variantes": [],
+   "fuentes": [
+    {
+     "archivo": "principal",
+     "paginas": [
+      6,
+      7
+     ],
+     "rol": "principal"
+    },
+    {
+     "archivo": "edicion2",
+     "paginas": [
+      6,
+      7
+     ],
+     "rol": "contraste"
+    }
+   ],
+   "correcciones": [],
+   "incidencias": [],
+   "clasificacion": {},
+   "sistemaProfesional": null,
+   "imagen": null,
+   "actualizado": "2026-10-23",
+   "procedencia": {
+    "titulo": "fuente",
+    "subtitulo": "fuente",
+    "contexto": "fuente",
+    "objetivo": "fuente",
+    "fases": "fuente",
+    "secciones": "fuente",
+    "materiales": "fuente",
+    "recomendaciones": "fuente",
+    "duracion": "fuente",
+    "consentimiento": "adaptacion",
+    "criteriosPausa": "adaptacion",
+    "momentos": "editorial",
+    "temas": "editorial",
+    "intensidad": "editorial",
+    "experiencia": "editorial"
+   },
+   "sumaFases": {
+    "min": 28,
+    "max": 33
+   },
+   "orden": 2
+  },
+  {
+   "id": "meditacion-templo-interior",
+   "version": 1,
+   "estado": "publicado",
+   "motivoEstado": null,
+   "titulo": "Meditación del Templo Interior",
+   "subtitulo": "Una visualización guiada para conectar con la calma, la intuición y la sabiduría interior",
+   "resumen": "Una visualización guiada para conectar con la calma, la intuición y la sabiduría interior",
+   "contexto": null,
+   "objetivo": "Guiar a los participantes hacia un espacio de introspección profunda a través de una experiencia de relajación y visualización consciente que conecta con la sabiduría interior.",
+   "momentos": [
+    "exploracion"
+   ],
+   "temas": [
+    "visualización",
+    "introspección",
+    "calma"
+   ],
+   "formato": [
+    "grupo"
+   ],
+   "tipoFuente": "Grupal · Visualización",
+   "duracion": {
+    "min": 60,
+    "max": 75,
+    "texto": "60 – 75 minutos"
+   },
+   "notaDuracion": "La fuente indica 60–75 min; las fases descritas suman 35–40 min.",
+   "nivelFuente": "Profundo",
+   "energiaFuente": "Introspectiva · Sagrada",
+   "momentoFuente": null,
+   "enfoqueFuente": null,
+   "espacio": {
+    "tipo": "interior"
+   },
+   "participantes": null,
+   "materiales": [
+    {
+     "texto": "Esterillas, cojines o mantas",
+     "ids": [
+      "cojines-esterillas",
+      "mantas"
+     ],
+     "opcional": false
+    },
+    {
+     "texto": "Música suave o sonidos ambientales",
+     "ids": [
+      "musica"
+     ],
+     "opcional": false
+    },
+    {
+     "texto": "Velas o iluminación tenue (opcional)",
+     "ids": [
+      "velas"
+     ],
+     "opcional": true
+    },
+    {
+     "texto": "Papel y lápices para reflexionar al finalizar (opcional)",
+     "ids": [
+      "papel",
+      "boligrafos"
+     ],
+     "opcional": true
+    }
+   ],
+   "ambiente": [],
+   "consentimiento": [
+    {
+     "texto": "Participar es voluntario: cualquier persona puede pasar, observar o detenerse en cualquier momento, sin dar explicaciones.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Quien lo prefiera puede mantener los ojos abiertos, con la mirada suave hacia el suelo.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Si una imagen resulta incómoda, se puede abrir los ojos, volver a la respiración o dejar la visualización y descansar.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Compartir siempre es opcional y vale decir «paso». Acuerden al inicio que lo compartido queda en el grupo.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Nadie necesita leer ni mostrar lo que escribe; puede guardarlo, romperlo o conservarlo en privado.",
+     "origen": "adaptacion"
+    }
+   ],
+   "criteriosPausa": [],
+   "cuandoUtilizar": [],
+   "cuandoEvitar": [],
+   "relacionadas": [],
+   "notasAdmin": [],
+   "propuestas": [],
+   "preparacion": [
+    {
+     "texto": "Prepara el espacio antes de que lleguen los participantes: luz, temperatura y música ya ambientados.",
+     "origen": "fuente"
+    }
+   ],
+   "experiencia": "intermedia",
+   "intensidad": "profunda",
+   "adaptaciones": [],
+   "secciones": [],
+   "fases": [
+    {
+     "id": "preparacion",
+     "nombre": "Preparación",
+     "tipo": "apertura",
+     "tiempo": {
+      "min": 5,
+      "max": 5,
+      "texto": "5 minutos"
+     },
+     "pasos": [
+      "Invita al grupo a recostarse cómodamente y cerrar suavemente los ojos.",
+      "Crea un ambiente tranquilo con luz tenue y respiraciones lentas para ayudar a relajar el cuerpo."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "visualizacion-guiada",
+     "nombre": "Visualización guiada",
+     "tipo": "desarrollo",
+     "tiempo": {
+      "min": 15,
+      "max": 20,
+      "texto": "15 – 20 minutos"
+     },
+     "pasos": [
+      "Comienza a narrar el viaje con voz pausada y serena, invitando a los participantes a imaginar un sendero natural rodeado de árboles, silencio y luz suave."
+     ],
+     "citas": [
+      "A medida que avanzan, aparece un templo en medio de la naturaleza: un espacio simbólico de sabiduría, claridad y conexión interior."
+     ],
+     "preguntas": [],
+     "nota": "Permite que cada persona explore ese lugar desde su propia experiencia y significado, sin guiar en exceso."
+    },
+    {
+     "id": "integracion",
+     "nombre": "Integración",
+     "tipo": "integracion",
+     "tiempo": {
+      "min": 10,
+      "max": 10,
+      "texto": "10 minutos"
+     },
+     "pasos": [
+      "Deja unos minutos de silencio después de la visualización antes de invitar al grupo a escribir o compartir lo que vivieron durante la práctica."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "cierre",
+     "nombre": "Cierre",
+     "tipo": "cierre",
+     "tiempo": {
+      "min": 5,
+      "max": 5,
+      "texto": "5 minutos"
+     },
+     "pasos": [
+      "Finaliza con respiraciones profundas y una transición suave de regreso al momento presente."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    }
+   ],
+   "queObservar": [],
+   "recomendaciones": [
+    {
+     "texto": "Narra con voz lenta, pausas largas y tono suave — el ritmo de tu voz es el ritmo de la práctica.",
+     "origen": "fuente"
+    },
+    {
+     "texto": "Respeta el silencio posterior — no apresures el regreso; la integración comienza ahí.",
+     "origen": "fuente"
+    }
+   ],
+   "variantes": [],
+   "fuentes": [
+    {
+     "archivo": "principal",
+     "paginas": [
+      10,
+      11
+     ],
+     "rol": "principal"
+    },
+    {
+     "archivo": "edicion2",
+     "paginas": [
+      10,
+      11,
+      12
+     ],
+     "rol": "contraste"
+    }
+   ],
+   "correcciones": [],
+   "incidencias": [],
+   "clasificacion": {},
+   "sistemaProfesional": null,
+   "imagen": null,
+   "actualizado": "2026-10-23",
+   "procedencia": {
+    "titulo": "fuente",
+    "subtitulo": "fuente",
+    "contexto": "fuente",
+    "objetivo": "fuente",
+    "fases": "fuente",
+    "secciones": "fuente",
+    "materiales": "fuente",
+    "recomendaciones": "fuente",
+    "duracion": "fuente",
+    "consentimiento": "adaptacion",
+    "criteriosPausa": "adaptacion",
+    "momentos": "editorial",
+    "temas": "editorial",
+    "intensidad": "editorial",
+    "experiencia": "editorial"
+   },
+   "sumaFases": {
+    "min": 35,
+    "max": 40
+   },
+   "orden": 4
+  },
+  {
+   "id": "circulo-de-gratitud",
+   "version": 1,
+   "estado": "publicado",
+   "motivoEstado": null,
+   "titulo": "Círculo de Gratitud",
+   "subtitulo": "Una práctica para abrir espacios de conexión, presencia y reconocimiento compartido",
+   "resumen": "Una práctica para abrir espacios de conexión, presencia y reconocimiento compartido",
+   "contexto": null,
+   "objetivo": "Crear un momento de apertura emocional donde los participantes puedan expresar gratitud, fortalecer la conexión grupal y entrar en el retiro desde una energía de presencia y autenticidad.",
+   "momentos": [
+    "apertura",
+    "conexion"
+   ],
+   "temas": [
+    "gratitud",
+    "escucha",
+    "círculo"
+   ],
+   "formato": [
+    "grupo"
+   ],
+   "tipoFuente": "Grupal · Círculo",
+   "duracion": {
+    "min": 30,
+    "max": 45,
+    "texto": "30 – 45 minutos"
+   },
+   "notaDuracion": null,
+   "nivelFuente": "Apertura",
+   "energiaFuente": "Suave · Receptiva",
+   "momentoFuente": null,
+   "enfoqueFuente": null,
+   "espacio": {
+    "tipo": "interior"
+   },
+   "participantes": null,
+   "materiales": [
+    {
+     "texto": "Una vela central (opcional)",
+     "ids": [
+      "vela-central"
+     ],
+     "opcional": true
+    },
+    {
+     "texto": "Cojines o esterillas para sentarse",
+     "ids": [
+      "cojines-esterillas"
+     ],
+     "opcional": false
+    },
+    {
+     "texto": "Objeto simbólico como bastón de la palabra (piedra, cristal o cuenco)",
+     "ids": [
+      "objeto-palabra"
+     ],
+     "opcional": false
+    },
+    {
+     "texto": "Música suave de fondo (opcional)",
+     "ids": [
+      "musica"
+     ],
+     "opcional": true
+    }
+   ],
+   "ambiente": [],
+   "consentimiento": [
+    {
+     "texto": "Participar es voluntario: cualquier persona puede pasar, observar o detenerse en cualquier momento, sin dar explicaciones.",
+     "origen": "adaptacion"
+    },
+    {
+     "texto": "Compartir siempre es opcional y vale decir «paso». Acuerden al inicio que lo compartido queda en el grupo.",
+     "origen": "adaptacion"
+    }
+   ],
+   "criteriosPausa": [],
+   "cuandoUtilizar": [
+    {
+     "texto": "Para entrar en el retiro desde la presencia y la autenticidad (objetivo de la ficha).",
+     "origen": "fuente"
+    }
+   ],
+   "cuandoEvitar": [],
+   "relacionadas": [],
+   "notasAdmin": [],
+   "propuestas": [],
+   "preparacion": [],
+   "experiencia": "inicial",
+   "intensidad": "suave",
+   "adaptaciones": [],
+   "secciones": [],
+   "fases": [
+    {
+     "id": "apertura",
+     "nombre": "Apertura",
+     "tipo": "apertura",
+     "tiempo": {
+      "min": 5,
+      "max": 5,
+      "texto": "5 minutos"
+     },
+     "pasos": [
+      "Invita al grupo a sentarse en círculo y realizar respiraciones profundas para llegar al momento presente.",
+      "Presenta la intención: crear un espacio seguro para compartir desde la gratitud y la escucha consciente."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "compartir",
+     "nombre": "Compartir",
+     "tipo": "integracion",
+     "tiempo": {
+      "min": 15,
+      "max": 30,
+      "texto": "15 – 30 minutos"
+     },
+     "pasos": [
+      "Entrega el objeto simbólico a una persona y explica que quien lo sostiene tiene la palabra.",
+      "Cada participante comparte algo por lo que se siente agradecido en este momento de su vida.",
+      "Invita al grupo a escuchar sin interrumpir y permitir que cada experiencia tenga su propio espacio."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "integracion",
+     "nombre": "Integración",
+     "tipo": "integracion",
+     "tiempo": {
+      "min": 5,
+      "max": 10,
+      "texto": "5 – 10 minutos"
+     },
+     "pasos": [
+      "Abre un momento de reflexión grupal con estas preguntas:"
+     ],
+     "citas": [
+      "¿Cómo te sentiste al compartir?",
+      "¿Qué surgió al escuchar las experiencias de los demás?"
+     ],
+     "preguntas": [],
+     "nota": null
+    },
+    {
+     "id": "cierre",
+     "nombre": "Cierre",
+     "tipo": "cierre",
+     "tiempo": {
+      "min": 5,
+      "max": 5,
+      "texto": "5 minutos"
+     },
+     "pasos": [
+      "Finaliza con una respiración colectiva, unos segundos de silencio o una palabra compartida por el grupo."
+     ],
+     "citas": [],
+     "preguntas": [],
+     "nota": null
+    }
+   ],
+   "queObservar": [],
+   "recomendaciones": [
+    {
+     "texto": "Mantén un tono cálido y pausado durante toda la práctica.",
+     "origen": "fuente"
+    },
+    {
+     "texto": "No apresures los silencios — forman parte del ritual.",
+     "origen": "fuente"
+    },
+    {
+     "texto": "Prioriza la escucha y la contención emocional del grupo por encima de todo.",
+     "origen": "fuente"
+    }
+   ],
+   "variantes": [],
+   "fuentes": [
+    {
+     "archivo": "principal",
+     "paginas": [
+      4,
+      5
+     ],
+     "rol": "principal"
+    },
+    {
+     "archivo": "edicion2",
+     "paginas": [
+      4,
+      5
+     ],
+     "rol": "contraste"
+    }
+   ],
+   "correcciones": [],
+   "incidencias": [],
+   "clasificacion": {},
+   "sistemaProfesional": null,
+   "imagen": null,
+   "actualizado": "2026-10-23",
+   "procedencia": {
+    "titulo": "fuente",
+    "subtitulo": "fuente",
+    "contexto": "fuente",
+    "objetivo": "fuente",
+    "fases": "fuente",
+    "secciones": "fuente",
+    "materiales": "fuente",
+    "recomendaciones": "fuente",
+    "duracion": "fuente",
+    "consentimiento": "adaptacion",
+    "criteriosPausa": "adaptacion",
+    "momentos": "editorial",
+    "temas": "editorial",
+    "intensidad": "editorial",
+    "experiencia": "editorial"
+   },
+   "sumaFases": {
+    "min": 30,
+    "max": 50
+   },
+   "orden": 1
+  }
+ ]
+}

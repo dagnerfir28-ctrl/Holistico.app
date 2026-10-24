@@ -1,0 +1,366 @@
+{
+ "archivo": "Más de 60 dinámicas retiros holísticos - Edición Enero_.pdf",
+ "drive_id": "1GyBfl35EYwFo8svyl-rea-2AhYII77ks",
+ "paginas": 138,
+ "metodo_lectura": "Capa de texto del visor de Google Drive (texto real). Orden de lectura reconstruido por columnas; transcripción revisada manualmente.",
+ "problemas_documento": [
+  {"paginas": [7], "problema": "Encabezados 'Desarrollo de la práctica / Apertura · 5 min' repetidos dos veces."},
+  {"paginas": [12], "problema": "Encabezado 'OBJETIVO' suelto sin contenido al inicio de la página."},
+  {"paginas": [40, 41], "problema": "Dos páginas 'Reto de 30 días' con texto de relleno ('Del fastidio proviene el placer…'); la 41 incluye 'PÁGINA N. o | NOMBRE DE LA EMPRESA'."},
+  {"paginas": [63], "problema": "Párrafo de relleno ('Y cegado sigue quien sino placeres…') y marcador 'PÁGINA N. o | NOMBRE DE LA EMPRESA' dentro de 'Círculo de Compartir Intenciones'."},
+  {"paginas": [121], "problema": "Texto cortado al final: '…cambia completamente la manera en que nos'."},
+  {"paginas": [123], "problema": "Texto cortado al final: '…alguna sensación surgida durante la'."},
+  {"paginas": [49], "problema": "Primera oración duplicada (con y sin punto final)."},
+  {"paginas": [51], "problema": "Caracteres sueltos '%' en la maquetación."}
+ ],
+ "entradas": [
+  {"n": 1, "titulo": "Circulo de gratitud", "sep": 4, "paginas": [5], "relacion": "equivalente", "principal": "P01"},
+  {"n": 2, "titulo": "Respiración Consciente", "sep": 6, "paginas": [7], "relacion": "equivalente", "principal": "P02"},
+  {"n": 3, "titulo": "Caminata Consciente", "sep": 8, "paginas": [9], "relacion": "equivalente", "principal": "P03"},
+  {"n": 4, "titulo": "Viaje al Templo Interior", "sep": 10, "paginas": [11, 12], "relacion": "equivalente", "principal": "P04"},
+  {"n": 5, "titulo": "Círculo de Espejos", "sep": 13, "paginas": [14], "relacion": "equivalente", "principal": "P05"},
+  {"n": 6, "titulo": "Mandala Colectivo", "sep": 15, "paginas": [16], "relacion": "equivalente", "principal": "P06"},
+  {"n": 7, "titulo": "Viaje de los Arquetipos", "sep": 17, "paginas": [18], "relacion": "equivalente", "principal": "P07"},
+  {"n": 8, "titulo": "Mesa Redonda sobre Valores", "sep": 19, "paginas": [20], "relacion": "equivalente", "principal": "P08"},
+  {"n": 9, "titulo": "Jardín de las Emociones", "sep": 21, "paginas": [22, 23], "relacion": "equivalente", "principal": "P09"},
+  {"n": 10, "titulo": "Escritura Libre", "sep": 24, "paginas": [25], "relacion": "equivalente", "principal": "P10"},
+  {"n": 11, "titulo": "Ritual de Liberación", "sep": 26, "paginas": [27], "relacion": "equivalente", "principal": "P11"},
+  {"n": 12, "titulo": "Mapa de Sueños e Intenciones", "sep": 28, "paginas": [29], "relacion": "equivalente", "principal": "P12"},
+  {"n": 13, "titulo": "Conexión con el Niño Interior", "sep": 30, "paginas": [31], "relacion": "equivalente", "principal": "P13"},
+  {"n": 14, "titulo": "Círculo de Escucha Consciente", "sep": 32, "paginas": [33], "relacion": "equivalente", "principal": "P14"},
+  {"n": 15, "titulo": "Ceremonia de Intenciones", "sep": 34, "paginas": [35], "relacion": "equivalente", "principal": "P15"},
+  {"n": 16, "titulo": "Baño de Sonido y Relajación", "sep": 36, "paginas": [37], "relacion": "equivalente", "principal": "P16"},
+  {"n": 17, "titulo": "Círculo de Historias de Vida", "sep": 38, "paginas": [39], "relacion": "equivalente", "principal": "P17"},
+  {"n": 18, "titulo": "Conexión con la Naturaleza", "sep": 42, "paginas": [43], "relacion": "equivalente", "principal": "P18"},
+  {"n": 19, "titulo": "Ritual de Gratitud Colectiva", "sep": 44, "paginas": [45], "relacion": "equivalente", "principal": "P19"},
+  {"n": 20, "titulo": "Visualización del Futuro", "sep": 46, "paginas": [47], "relacion": "equivalente", "principal": "P20"},
+  {"n": 21, "titulo": "Viaje a través de los Chakras", "sep": 48, "paginas": [49], "relacion": "recupera_faltante", "principal": "P21",
+   "texto": {
+    "subtitulo": "Una experiencia para reconectar con el cuerpo, la energía y el equilibrio interior",
+    "bloques": [
+     {"t": "p", "v": "Nuestro cuerpo guarda emociones, tensiones y experiencias que muchas veces pasan desapercibidas en la rutina diaria."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a recorrer de manera consciente los distintos centros energéticos del cuerpo, favoreciendo un estado de mayor presencia, equilibrio y conexión interior."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y relajado donde el grupo pueda sentarse o recostarse cómodamente. Puedes acompañar la experiencia con música suave, sonidos ambientales, velas o iluminación tenue para crear una atmósfera de calma y concentración."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones lentas para ayudar al grupo a relajarse y conectar con el momento presente."},
+     {"t": "paso", "v": "A medida que la práctica avanza, invita a los participantes a llevar la atención hacia distintas zonas del cuerpo, observando sensaciones, emociones o pensamientos que puedan surgir. Puedes recorrer los chakras desde la base hasta la coronilla, acompañando cada etapa con colores, emociones o palabras asociadas a cada centro energético."},
+     {"t": "nota", "v": "La intención no es “hacerlo perfecto”, sino permitir que cada persona observe cómo se siente física y emocionalmente durante la experiencia."},
+     {"t": "frases", "v": ["Respira y permite que la energía fluya con naturalidad.", "Observa sin necesidad de controlar la experiencia.", "Escucha lo que tu cuerpo necesita expresar."]},
+     {"t": "paso", "v": "Al finalizar, deja unos minutos de silencio para integrar lo vivido antes de invitar al grupo a regresar lentamente al espacio."},
+     {"t": "paso", "v": "Quienes lo deseen pueden escribir o compartir brevemente cómo se sintieron durante la práctica."}
+    ],
+    "faltantes": ["duración", "tiempos por fase", "materiales como lista", "descripción de cada chakra (la fuente solo indica 'colores, emociones o palabras asociadas' sin detallarlos)"]
+   }},
+  {"n": 22, "titulo": "Espejo de las Sombras", "sep": 50, "paginas": [51], "relacion": "equivalente", "principal": "P22"},
+  {"n": 23, "titulo": "Ritual del Perdón", "sep": 52, "paginas": [53], "relacion": "equivalente", "principal": "P23"},
+  {"n": 24, "titulo": "Constelación Onírica", "sep": 54, "paginas": [55], "relacion": "equivalente_redaccion_distinta", "principal": "P24"},
+  {"n": 25, "titulo": "Viaje Chamánico Guiado", "sep": 56, "paginas": [57], "relacion": "version_alternativa", "principal": "P25",
+   "nota": "Versión más suave: visualización con música rítmica suave, sin vendas ni ritmo de tambor especificado (4–7 golpes/s) ni 'tres mundos'.",
+   "texto": {
+    "subtitulo": "Una experiencia para conectar con la intuición, la naturaleza y la sabiduría interior",
+    "bloques": [
+     {"t": "p", "v": "Desde hace siglos, distintas culturas han utilizado el viaje interior como una forma de reconectar con la intuición, los símbolos y la relación profunda entre el ser humano y la naturaleza."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a vivir una experiencia de visualización y exploración interior acompañada de sonidos, respiración y estados de mayor presencia."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y contenido, preferiblemente con iluminación tenue, elementos naturales y música rítmica suave como tambores, sonidos tribales o instrumentos ancestrales."},
+     {"t": "paso", "v": "Invita al grupo a sentarse o recostarse cómodamente y comenzar con unas respiraciones profundas para relajar el cuerpo y aquietar la mente."},
+     {"t": "paso", "v": "A medida que la experiencia avanza, guía una visualización donde cada participante imagine un recorrido simbólico a través de paisajes naturales, senderos, montañas o bosques."},
+     {"t": "nota", "v": "La intención no es dirigir exactamente lo que deben ver, sino abrir un espacio para que cada persona conecte con imágenes, emociones o sensaciones que aparezcan de forma espontánea."},
+     {"t": "frases", "v": ["Permite que el viaje se revele a su propio ritmo.", "Confía en aquello que aparece dentro de ti.", "No necesitas entenderlo todo, solo observar."]},
+     {"t": "paso", "v": "Después de la visualización, deja unos minutos de silencio para integrar la experiencia antes de invitar al grupo a escribir, dibujar o compartir aquello que vivieron durante el recorrido interior."},
+     {"t": "nota", "v": "El objetivo no es interpretar literalmente las imágenes surgidas, sino favorecer un espacio de introspección, conexión y escucha interna."}
+    ]
+   }},
+  {"n": 26, "titulo": "Círculo de Transformación Alquímica", "sep": 58, "paginas": [59], "relacion": "recupera_faltante", "principal": "P26",
+   "texto": {
+    "subtitulo": "Una experiencia para reconocer aquello que está listo para transformarse",
+    "bloques": [
+     {"t": "p", "v": "Toda transformación profunda comienza cuando dejamos de resistir aquello que necesitamos mirar."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a observar patrones, emociones o etapas de vida que hoy sienten listas para evolucionar, creando un espacio simbólico de cambio y renovación interior."},
+     {"t": "paso", "v": "Prepara un ambiente íntimo y cálido, acompañado de velas, música suave o iluminación tenue que favorezca la introspección y la conexión emocional."},
+     {"t": "paso", "v": "Invita al grupo a sentarse en círculo y comenzar con unos minutos de respiración consciente para entrar en un estado de mayor presencia."},
+     {"t": "paso", "v": "Después, guía una breve reflexión sobre cómo muchas veces los procesos más difíciles también contienen oportunidades de crecimiento, claridad y transformación."},
+     {"t": "paso", "v": "Entrega papel y bolígrafos e invita a cada participante a escribir: aquello que desean transformar, una emoción que ya no quieren seguir sosteniendo, o una versión de sí mismos que sienten lista para evolucionar."},
+     {"t": "preguntas", "v": ["¿Qué parte de tu vida necesita un cambio más consciente?", "¿Qué estás listo para dejar atrás?", "¿Qué nueva energía deseas comenzar a cultivar?"]},
+     {"t": "paso", "v": "Una vez finalizada la reflexión, invita al grupo a realizar un pequeño acto simbólico de transformación: doblar el papel, guardarlo en un recipiente, quemarlo de forma segura o simplemente sostenerlo mientras realizan una respiración profunda."}
+    ],
+    "faltantes": ["duración", "tiempos por fase", "integración y cierre (el texto termina con el acto simbólico)"]
+   }},
+  {"n": 27, "titulo": "Escaneo Corporal", "sep": 60, "paginas": [61], "relacion": "equivalente", "principal": "P27"},
+  {"n": 28, "titulo": "Círculo de Compartir Intenciones", "sep": 62, "paginas": [63], "relacion": "equivalente_con_relleno", "principal": "P28"},
+  {"n": 29, "titulo": "Meditación del Árbol", "sep": 64, "paginas": [65], "relacion": "equivalente", "principal": "P29"},
+  {"n": 30, "titulo": "Ritual de Cierre y Renacimiento", "sep": 66, "paginas": [67], "relacion": "variante_de", "principal": "P59",
+   "nota": "Comparte la estructura central del Círculo de Cierre del Retiro (círculo, reflexión sobre lo vivido, compartir una palabra o intención, gesto colectivo). Se registra como variante.",
+   "texto": {
+    "subtitulo": "Un momento para integrar la experiencia vivida y abrir espacio para una nueva etapa",
+    "bloques": [
+     {"t": "p", "v": "Todo proceso profundo merece un cierre consciente."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a reconocer lo vivido durante el retiro, integrar los aprendizajes obtenidos y despedir esta etapa desde la gratitud, la presencia y la intención de continuar creciendo."},
+     {"t": "paso", "v": "Prepara un ambiente cálido y simbólico, acompañado de velas, música suave o elementos naturales que ayuden a crear una atmósfera íntima y significativa."},
+     {"t": "paso", "v": "Invita al grupo a sentarse en círculo y comenzar con unos minutos de silencio o respiración consciente para conectar con la experiencia compartida."},
+     {"t": "paso", "v": "Después, guía una breve reflexión sobre todo aquello que cada persona descubrió, soltó o transformó durante el retiro."},
+     {"t": "preguntas", "v": ["¿Qué aprendizaje deseas llevar contigo después de esta experiencia?", "¿Qué parte de ti sientes más despierta o fortalecida?", "¿Qué nueva etapa deseas comenzar a construir?"]},
+     {"t": "paso", "v": "Invita a cada participante a compartir una palabra, intención o reflexión que represente aquello que hoy desean integrar en sus vidas."},
+     {"t": "nota", "v": "La intención no es cerrar “perfectamente”, sino reconocer que algo dentro de cada persona ya comenzó a transformarse."},
+     {"t": "paso", "v": "Puedes finalizar la experiencia con un pequeño ritual colectivo: encender una vela, realizar una respiración grupal, un abrazo consciente o unos segundos de silencio compartido."}
+    ]
+   }},
+  {"n": 31, "titulo": "Círculo de Silencio Consciente", "sep": 68, "paginas": [69], "relacion": "equivalente", "principal": "P31"},
+  {"n": 32, "titulo": "Camino de la Confianza", "sep": 70, "paginas": [71], "relacion": "version_alternativa", "principal": "P32",
+   "nota": "Versión con un único formato: recorrido corto con ojos cerrados acompañado por la pareja; sin caída de confianza."},
+  {"n": 33, "titulo": "Ceremonia de la Luz Interior", "sep": 72, "paginas": [73], "relacion": "version_alternativa", "principal": "P33",
+   "nota": "Enfoque distinto: cada persona enciende su vela y nombra su propia luz; el principal propone reconocimiento del grupo hacia cada persona."},
+  {"n": 34, "titulo": "Respiración en Pareja", "sep": 74, "paginas": [75], "relacion": "version_alternativa", "principal": "P34",
+   "nota": "Versión sin retención ni contacto: parejas frente a frente que observan la respiración del otro y encuentran un ritmo compartido de forma natural.",
+   "texto": {
+    "subtitulo": "Una experiencia para conectar con la presencia, la empatía y el ritmo compartido",
+    "bloques": [
+     {"t": "p", "v": "La respiración también puede convertirse en una forma de conexión."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a compartir un momento de presencia consciente junto a otra persona, favoreciendo la escucha, la calma y la sincronía emocional."},
+     {"t": "paso", "v": "Invita al grupo a formar parejas y sentarse frente a frente en una posición cómoda y relajada. Crea un ambiente tranquilo, acompañado de música suave o silencio consciente para favorecer la concentración y la conexión."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones lentas y profundas para ayudar a relajar el cuerpo y entrar en el momento presente."},
+     {"t": "paso", "v": "Después, invita a las parejas a observar suavemente la respiración del otro sin necesidad de hablar. Poco a poco, permite que encuentren un ritmo compartido de manera natural, sin forzarlo."},
+     {"t": "nota", "v": "La intención no es “respirar perfecto”, sino experimentar cómo cambia la conexión cuando realmente prestamos atención al otro desde la calma y la presencia."},
+     {"t": "frases", "v": ["Respira sin prisa.", "Permite que el momento se vuelva más simple.", "A veces, la conexión también ocurre en silencio."]},
+     {"t": "paso", "v": "Después de algunos minutos, invita a las parejas a cerrar los ojos y continuar respirando juntos desde la escucha y la tranquilidad."},
+     {"t": "paso", "v": "Al finalizar, abre un pequeño espacio para compartir cómo se sintieron durante la experiencia y qué emociones o sensaciones aparecieron."}
+    ]
+   }},
+  {"n": 35, "titulo": "Carta al Futuro", "sep": 76, "paginas": [77], "relacion": "nueva",
+   "texto": {
+    "subtitulo": "Una experiencia para conectar con la visión personal y los cambios que deseas construir",
+    "bloques": [
+     {"t": "p", "v": "A veces, escribirle a nuestra versión futura nos ayuda a reconocer con más claridad quiénes somos hoy y hacia dónde queremos avanzar."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a reflexionar sobre su presente, sus aprendizajes y las intenciones que desean sostener después del retiro."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y reflexivo donde el grupo pueda escribir sin interrupciones. Puedes acompañar el espacio con música suave, luz cálida o unos minutos previos de respiración consciente para favorecer la introspección."},
+     {"t": "paso", "v": "Invita a cada participante a escribir una carta dirigida a sí mismo en el futuro. La carta puede incluir: emociones, aprendizajes, intenciones, recordatorios, decisiones o aquello que no desean olvidar después de esta experiencia."},
+     {"t": "preguntas", "v": ["¿Qué quiero recordar de esta etapa de mi vida?", "¿Qué parte de mí deseo fortalecer?", "¿Qué decisiones quiero sostener a partir de ahora?", "¿Cómo quiero sentirme en el futuro?"]},
+     {"t": "nota", "v": "Anima al grupo a escribir desde la honestidad y sin preocuparse por hacerlo “perfecto”. La intención es crear un momento auténtico de conexión con ellos mismos."},
+     {"t": "paso", "v": "Al finalizar, cada participante podrá guardar la carta para abrirla meses después o conservarla como un recordatorio simbólico de su proceso personal."}
+    ]
+   }},
+  {"n": 36, "titulo": "Círculo de Celebración", "sep": 78, "paginas": [79], "relacion": "nueva",
+   "nota_similitud": "Estructura de compartir parecida a los cierres (aprendizaje, momento, gratitud, lo que se lleva), con énfasis en la celebración y movimiento libre opcional. Registrada como actividad propia; marcar como posible variante para revisión.",
+   "texto": {
+    "subtitulo": "Un espacio para reconocer el camino recorrido y compartir la energía del grupo",
+    "bloques": [
+     {"t": "p", "v": "Después de los momentos de introspección y transformación, también es importante abrir espacio para la alegría, la gratitud y la celebración compartida."},
+     {"t": "p", "v": "Esta dinámica invita al grupo a reconocer todo lo vivido durante el retiro desde una energía más ligera, presente y expansiva."},
+     {"t": "paso", "v": "Prepara un ambiente cálido y relajado, acompañado de música, velas, naturaleza o cualquier elemento que ayude a crear una atmósfera de conexión y bienestar."},
+     {"t": "paso", "v": "Invita a los participantes a reunirse en círculo y comenzar con unas respiraciones suaves para conectar con el momento presente."},
+     {"t": "paso", "v": "Después, abre un espacio donde cada persona pueda compartir: un aprendizaje importante, un momento significativo del retiro, algo que agradece, o aquello que desea llevar consigo después de la experiencia."},
+     {"t": "nota", "v": "La intención no es hacer grandes discursos, sino permitir que cada participante reconozca y celebre su propio proceso y el del grupo."},
+     {"t": "frases", "v": ["Celebrar también es parte del proceso de transformación.", "Honrar lo vivido nos ayuda a integrarlo.", "Cada experiencia compartida deja algo en los demás."]},
+     {"t": "paso", "v": "Si lo deseas, puedes complementar el cierre con música suave, movimiento libre, un brindis simbólico o un pequeño ritual grupal que represente unión y gratitud. Lo importante es crear un momento humano, auténtico y lleno de presencia."}
+    ]
+   }},
+  {"n": 37, "titulo": "Ejercicio de Autoaceptación", "sep": 80, "paginas": [81], "relacion": "nueva",
+   "texto": {
+    "subtitulo": "Una experiencia para abrazar quién eres con más honestidad y compasión",
+    "bloques": [
+     {"t": "p", "v": "Muchas veces somos capaces de comprender y cuidar a los demás, pero nos cuesta ofrecer esa misma comprensión hacia nosotros mismos."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a observarse con más amabilidad, reconociendo tanto sus fortalezas como aquellas partes que normalmente juzgan o rechazan."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y seguro, acompañado de música suave, iluminación cálida o un espacio que favorezca la introspección y la calma emocional."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones conscientes para ayudar al grupo a relajarse y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita a cada participante a reflexionar sobre aquellas partes de sí mismos que más les cuesta aceptar: emociones, errores, inseguridades, cicatrices emocionales o aspectos personales que normalmente intentan ocultar."},
+     {"t": "preguntas", "v": ["¿Qué parte de mí necesita hoy más comprensión?", "¿Qué aspecto de mi historia sigo juzgando demasiado?", "¿Cómo cambiaría mi vida si aprendiera a tratarme con más compasión?"]},
+     {"t": "paso", "v": "Invita al grupo a escribir unas palabras dirigidas hacia sí mismos desde la empatía y el cuidado, como si hablaran con alguien a quien aman profundamente."},
+     {"t": "nota", "v": "La intención no es “convertirse en alguien perfecto”, sino comenzar a relacionarse consigo mismos desde un lugar más humano y consciente."},
+     {"t": "paso", "v": "Al finalizar, permite unos minutos de silencio para integrar la experiencia antes de abrir un pequeño espacio de reflexión voluntaria."}
+    ]
+   }},
+  {"n": 38, "titulo": "Taller Terapéutico de Expresión Emocional", "sep": 82, "paginas": [83], "relacion": "nueva",
+   "nota_revision": "El término 'terapéutico' en el título puede sugerir un servicio clínico; requiere decisión del propietario antes de publicar.",
+   "texto": {
+    "subtitulo": "Un espacio para reconocer, expresar y comprender lo que sentimos",
+    "bloques": [
+     {"t": "p", "v": "Las emociones que se expresan de forma consciente pueden convertirse en una fuente de comprensión, alivio y transformación personal."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a conectar con sus emociones desde la observación, la expresión y la escucha interna, creando un espacio seguro donde puedan sentirse vistos y contenidos."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y acogedor, acompañado de música suave, iluminación cálida o materiales creativos que ayuden a favorecer la expresión emocional."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones conscientes para ayudar al grupo a relajarse y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita a los participantes a identificar una emoción que haya estado presente en sus vidas recientemente: miedo, tristeza, alegría, enojo, confusión o cualquier emoción que necesite más atención y escucha."},
+     {"t": "paso", "v": "La experiencia puede desarrollarse a través de escritura, dibujo, movimiento corporal o reflexión grupal, dependiendo de la energía y necesidades del grupo."},
+     {"t": "preguntas", "v": ["¿Qué emoción necesita hoy más espacio dentro de mí?", "¿Qué intento evitar sentir?", "¿Qué me está mostrando esta emoción sobre mi vida actual?"]},
+     {"t": "nota", "v": "Recuerda que la intención no es “arreglar” las emociones, sino permitir que puedan ser observadas y expresadas con mayor conciencia y compasión."},
+     {"t": "paso", "v": "Al finalizar, invita al grupo a respirar profundamente y reconocer que todas las emociones cumplen una función dentro de la experiencia humana."}
+    ]
+   }},
+  {"n": 39, "titulo": "Ritual de Autoperdón", "sep": 84, "paginas": [85], "relacion": "equivalente", "principal": "P40"},
+  {"n": 40, "titulo": "Círculo de Historias Transformadoras", "sep": 86, "paginas": [87], "relacion": "variante_de", "principal": "P17",
+   "nota": "Misma estructura central que el Círculo de Historias de Vida (círculo, compartir una experiencia significativa, escuchar sin aconsejar, cierre en silencio). Se registra como variante centrada en experiencias de transformación (incluye pérdidas).",
+   "texto": {
+    "subtitulo": "Un espacio para compartir experiencias que dejaron huella en el camino personal",
+    "bloques": [
+     {"t": "p", "v": "Cada persona guarda momentos que cambiaron su forma de ver la vida. Experiencias que, de una u otra manera, marcaron un antes y un después en su manera de sentir, pensar o relacionarse consigo misma."},
+     {"t": "paso", "v": "Prepara un ambiente cálido e íntimo, acompañado de iluminación suave, velas o música tranquila que favorezca la presencia y la apertura emocional."},
+     {"t": "paso", "v": "Invita al grupo a sentarse en círculo y comenzar con unos minutos de respiración consciente para crear una atmósfera de calma y confianza."},
+     {"t": "paso", "v": "Después, propone compartir una experiencia de vida que haya generado una transformación importante: un cambio, una pérdida, un aprendizaje, una decisión o un momento que les permitió ver la vida de manera diferente. No es necesario contar todos los detalles."},
+     {"t": "preguntas", "v": ["¿Qué experiencia transformó tu manera de verte a ti mismo?", "¿Qué aprendizaje marcó una nueva etapa en tu vida?", "¿Qué descubriste sobre ti a través de esa experiencia?"]},
+     {"t": "paso", "v": "Invita al resto del grupo a escuchar desde la empatía y la presencia, sin interrumpir ni intentar aconsejar."},
+     {"t": "paso", "v": "Al finalizar, permite unos minutos de silencio o reflexión grupal para integrar lo compartido durante la experiencia."}
+    ]
+   }},
+  {"n": 41, "titulo": "El Viaje de la Sabiduría Interior", "sep": 88, "paginas": [89], "relacion": "variante_de", "principal": "P41",
+   "nota": "Versión sin el marco de Dharma, Karma y Moksha: reflexión general sobre propósito, decisiones y equilibrio.",
+   "texto": {
+    "subtitulo": "Una experiencia para reflexionar sobre el propósito, el equilibrio y el camino personal",
+    "bloques": [
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y contemplativo, acompañado de música suave, iluminación cálida o elementos naturales. Comienza guiando unas respiraciones conscientes para desacelerar y conectar con el momento presente."},
+     {"t": "paso", "v": "Introduce una breve reflexión sobre cómo cada persona vive su propio camino de crecimiento y aprendizaje, atravesando desafíos, cambios y descubrimientos internos."},
+     {"t": "preguntas", "v": ["¿Qué le da verdadero sentido a mi vida hoy?", "¿Qué decisiones me acercan a una vida más auténtica?", "¿Qué necesito soltar para avanzar con mayor claridad?", "¿Qué parte de mí busca más equilibrio y propósito?"]},
+     {"t": "paso", "v": "Invita a los participantes a escribir, reflexionar en silencio o compartir algunas ideas con el grupo si así lo desean."},
+     {"t": "paso", "v": "Al finalizar, puedes cerrar con unos minutos de silencio consciente o una breve meditación guiada enfocada en la gratitud y la presencia."}
+    ]
+   }},
+  {"n": 42, "titulo": "Meditación de la Compasión", "sep": 90, "paginas": [91], "relacion": "variante_de", "principal": "P45",
+   "nota": "Versión simplificada de la Meditación de la Compasión Universal (frases de amabilidad que se expanden hacia otras personas)."},
+  {"n": 43, "titulo": "Círculo de Vulnerabilidad", "sep": 92, "paginas": [93], "relacion": "equivalente", "principal": "P49"},
+  {"n": 44, "titulo": "Conexión con los Cuatro Elementos", "sep": 94, "paginas": [95], "relacion": "equivalente", "principal": "P50"},
+  {"n": 45, "titulo": "Danza de Liberación Emocional", "sep": 96, "paginas": [97], "relacion": "equivalente", "principal": "P51",
+   "nota": "La versión de la Edición 2 no incluye la recomendación problemática sobre el llanto."},
+  {"n": 46, "titulo": "Meditación de Gratitud Profunda", "sep": 98, "paginas": [99], "relacion": "equivalente", "principal": "P52"},
+  {"n": 47, "titulo": "El Puente de la Confianza", "sep": 100, "paginas": [101], "relacion": "equivalente_completa", "principal": "P53",
+   "nota": "Incluye cierre completo ('permite unos minutos de integración y silencio consciente antes de cerrar la dinámica')."},
+  {"n": 48, "titulo": "Ritual de Renacimiento", "sep": 102, "paginas": [103], "relacion": "recupera_desarrollo", "principal": "P54",
+   "texto": {
+    "subtitulo": "Una experiencia simbólica para cerrar etapas y abrir espacio para nuevos comienzos",
+    "bloques": [
+     {"t": "p", "v": "Hay momentos en la vida donde sentimos que algo dentro de nosotros está listo para cambiar."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a reconocer aquello que desean dejar atrás y conectar con una nueva etapa desde la intención, la presencia y la transformación consciente."},
+     {"t": "paso", "v": "Prepara un ambiente íntimo y significativo, acompañado de velas, música suave, elementos naturales o iluminación tenue que favorezca la introspección y la conexión emocional."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones profundas para ayudar al grupo a relajarse y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita a cada participante a reflexionar sobre aquello que sienten listo para finalizar: hábitos, miedos, creencias, emociones o etapas personales que ya no desean seguir sosteniendo."},
+     {"t": "preguntas", "v": ["¿Qué parte de mi vida está pidiendo un nuevo comienzo?", "¿Qué necesito dejar atrás para avanzar con más claridad?", "¿Qué versión de mí quiero comenzar a construir?"]},
+     {"t": "paso", "v": "Entrega papel y bolígrafos para que cada persona pueda escribir aquello que desea soltar y aquello que desea abrir en esta nueva etapa."},
+     {"t": "paso", "v": "La experiencia puede cerrarse con un gesto simbólico: quemar el papel de forma segura, enterrarlo, guardarlo en un espacio especial o simplemente sostenerlo durante unos minutos de silencio consciente."},
+     {"t": "nota", "v": "La intención no es “convertirse en alguien diferente”, sino reconocer que el cambio también forma parte natural del crecimiento personal."},
+     {"t": "paso", "v": "Al finalizar, invita al grupo a respirar profundamente y conectar con la sensación de apertura, renovación y posibilidad."}
+    ]
+   }},
+  {"n": 49, "titulo": "Círculo de Presencia", "sep": 104, "paginas": [105], "relacion": "equivalente", "principal": "P55"},
+  {"n": 50, "titulo": "Meditación de Integración", "sep": 106, "paginas": [107], "relacion": "nueva",
+   "texto": {
+    "subtitulo": "Una experiencia para asimilar lo vivido y conectar con una sensación de equilibrio interior",
+    "bloques": [
+     {"t": "p", "v": "Después de atravesar experiencias profundas, el cuerpo y la mente también necesitan espacios de calma para integrar lo aprendido."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a desacelerar y permitir que las emociones, reflexiones y descubrimientos del retiro encuentren un espacio de mayor claridad y presencia."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y cómodo donde el grupo pueda sentarse o recostarse sin interrupciones. Puedes acompañar la experiencia con música suave, sonidos naturales o iluminación tenue que favorezca la relajación y el descanso emocional."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones lentas para ayudar a liberar tensión y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita al grupo a recorrer internamente todo lo vivido durante el retiro: los aprendizajes, las emociones, las conversaciones, los silencios y las experiencias que dejaron huella en cada persona."},
+     {"t": "nota", "v": "La intención no es analizar todo lo ocurrido, sino permitir que cada participante observe cómo se siente ahora después del proceso vivido."},
+     {"t": "frases", "v": ["Permite que lo vivido encuentre su propio lugar dentro de ti.", "No necesitas comprenderlo todo en este momento.", "La integración también ocurre en silencio."]},
+     {"t": "paso", "v": "Después de algunos minutos de meditación y calma, invita al grupo a regresar lentamente al espacio y conectar nuevamente con el cuerpo y la respiración."},
+     {"t": "paso", "v": "Quienes lo deseen pueden escribir una breve reflexión o compartir alguna sensación surgida durante la práctica."}
+    ]
+   }},
+  {"n": 51, "titulo": "Ritual de Conexión Ancestral", "sep": 108, "paginas": [109], "relacion": "nueva",
+   "texto": {
+    "subtitulo": "Una experiencia para honrar las raíces, la historia y la sabiduría que nos acompaña",
+    "bloques": [
+     {"t": "p", "v": "Cada persona forma parte de una historia más grande: familia, memorias, aprendizajes y experiencias que, de alguna manera, también dejaron huella en su camino."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a conectar simbólicamente con sus raíces y reconocer aquello que desean honrar, agradecer o transformar dentro de su historia personal."},
+     {"t": "paso", "v": "Prepara un ambiente íntimo y significativo, acompañado de velas, elementos naturales, fotografías simbólicas o música suave que ayude a crear una atmósfera de calma y reflexión."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones conscientes para ayudar al grupo a entrar en un estado de mayor presencia y conexión interior."},
+     {"t": "paso", "v": "Después, invita a los participantes a reflexionar sobre las personas, enseñanzas o experiencias que marcaron su vida y que hoy siguen acompañando su camino de alguna forma."},
+     {"t": "preguntas", "v": ["¿Qué aprendizajes importantes recibí de quienes estuvieron antes que yo?", "¿Qué aspectos de mi historia deseo agradecer?", "¿Qué patrones o cargas siento listos para transformar?", "¿Qué legado quiero continuar construyendo de manera más consciente?"]},
+     {"t": "paso", "v": "La experiencia puede desarrollarse a través de escritura, reflexión silenciosa, compartir grupal o pequeños rituales simbólicos según la energía del grupo."},
+     {"t": "nota", "v": "La intención no es idealizar el pasado, sino reconocer cómo nuestras raíces también forman parte de quienes somos hoy."},
+     {"t": "paso", "v": "Al finalizar, invita al grupo a cerrar con una respiración colectiva, una palabra compartida o unos minutos de silencio consciente para integrar la experiencia."}
+    ]
+   }},
+  {"n": 52, "titulo": "Dinámica de Coherencia Interior", "sep": 110, "paginas": [111], "relacion": "nueva",
+   "nota_similitud": "Tema cercano a 'Mesa Redonda sobre Valores' (valores y alineación), pero en formato de reflexión individual por áreas de vida. Registrada como actividad propia; marcar similitud para revisión.",
+   "texto": {
+    "subtitulo": "Una experiencia para alinear pensamientos, emociones y acciones con mayor autenticidad",
+    "bloques": [
+     {"t": "p", "v": "Muchas veces sabemos lo que sentimos o lo que deseamos, pero nuestras decisiones y hábitos terminan alejándose de aquello que realmente valoramos."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a reflexionar sobre la coherencia entre su mundo interior y la manera en que viven su día a día."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y reflexivo donde el grupo pueda sentirse cómodo para escribir, pensar y compartir desde la honestidad."},
+     {"t": "paso", "v": "Puedes comenzar con unas respiraciones conscientes o una breve meditación para ayudar a desacelerar y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita a cada participante a observar distintas áreas de su vida: relaciones, trabajo, bienestar, emociones, hábitos o decisiones recientes. La intención es reconocer qué aspectos se sienten alineados con sus valores y cuáles necesitan más autenticidad, equilibrio o presencia."},
+     {"t": "preguntas", "v": ["¿Estoy viviendo de acuerdo con aquello que realmente valoro?", "¿Qué decisiones no se sienten coherentes conmigo hoy?", "¿Qué parte de mi vida necesita más honestidad y alineación?", "¿Qué pequeños cambios podrían acercarme más a quien quiero ser?"]},
+     {"t": "paso", "v": "Invita al grupo a escribir algunas reflexiones o acciones concretas que deseen comenzar a integrar después del retiro."},
+     {"t": "nota", "v": "La intención no es generar culpa ni exigencia, sino crear un espacio de claridad y conciencia personal."},
+     {"t": "paso", "v": "Al finalizar, puedes abrir un pequeño espacio para compartir descubrimientos o cerrar con unos minutos de silencio e integración."}
+    ]
+   }},
+  {"n": 53, "titulo": "Meditación del Corazón Abierto", "sep": 112, "paginas": [113], "relacion": "equivalente", "principal": "P56"},
+  {"n": 54, "titulo": "Círculo de Reflexión Nocturna", "sep": 114, "paginas": [115], "relacion": "equivalente", "principal": "P57"},
+  {"n": 55, "titulo": "Caminata al Amanecer", "sep": 116, "paginas": [117], "relacion": "variante_de", "principal": "P03",
+   "nota": "Misma estructura central que la Caminata Consciente (caminar en silencio con atención a respiración, sonidos y sensaciones, pausas y compartir final), realizada al amanecer.",
+   "texto": {
+    "subtitulo": "Una experiencia para comenzar el día desde la presencia y la conexión con la naturaleza",
+    "bloques": [
+     {"t": "p", "v": "El amanecer tiene una energía distinta. La calma, el silencio y la luz suave de las primeras horas del día pueden convertirse en un espacio perfecto para reconectar con uno mismo y comenzar la jornada con mayor claridad y presencia."},
+     {"t": "paso", "v": "Busca un entorno natural tranquilo donde el grupo pueda caminar con seguridad y sin distracciones: playa, bosque, montaña o senderos abiertos."},
+     {"t": "paso", "v": "Invita a los participantes a comenzar la experiencia en silencio, prestando atención a la respiración, los sonidos del entorno y las sensaciones físicas al caminar."},
+     {"t": "frases", "v": ["Permite que el día comience lentamente.", "Observa cómo despierta la naturaleza... y también tu energía.", "A veces, la claridad aparece en los momentos más simples."]},
+     {"t": "paso", "v": "Durante la caminata, puedes hacer pequeñas pausas para observar el paisaje, respirar profundamente o simplemente permanecer unos instantes en silencio."},
+     {"t": "paso", "v": "Al finalizar, reúne nuevamente al grupo para compartir alguna reflexión, sensación o intención para el resto del día."}
+    ]
+   }},
+  {"n": 56, "titulo": "Ritual de Agradecimiento al Cuerpo", "sep": 118, "paginas": [119], "relacion": "equivalente", "principal": "P58"},
+  {"n": 57, "titulo": "Dinámica de Escucha Profunda", "sep": 120, "paginas": [121], "relacion": "variante_de", "principal": "P05",
+   "nota": "Misma estructura central que el Círculo de Espejos (parejas, una persona comparte y la otra escucha sin interrumpir, intercambio de roles, reflexión grupal), sin la parte de reflejar lo escuchado. Texto cortado al final en la fuente.",
+   "texto": {
+    "subtitulo": "Una experiencia para fortalecer la presencia y la conexión a través de la escucha consciente",
+    "bloques": [
+     {"t": "p", "v": "Escuchar verdaderamente a otra persona es mucho más que esperar nuestro turno para hablar."},
+     {"t": "paso", "v": "Prepara un ambiente tranquilo y libre de distracciones. Invita a los participantes a formar parejas y sentarse frente a frente. Guía unas respiraciones suaves para desacelerar."},
+     {"t": "paso", "v": "Una persona comparte una experiencia, emoción o reflexión personal durante algunos minutos mientras la otra escucha sin interrumpir, aconsejar ni reaccionar inmediatamente: sin preparar respuestas, sin intentar solucionar y sin dirigir la conversación."},
+     {"t": "frases", "v": ["Escucha más allá de las palabras.", "No necesitas responder de inmediato.", "A veces, sentirse escuchado también transforma."]},
+     {"t": "paso", "v": "Después de unos minutos, invita a intercambiar roles."},
+     {"t": "paso", "v": "Al finalizar, reúne nuevamente al grupo y abre un pequeño espacio de reflexión sobre cómo se sintieron al hablar y al escuchar desde la atención plena."}
+    ]
+   }},
+  {"n": 58, "titulo": "Visualización del Lugar Seguro", "sep": 122, "paginas": [123], "relacion": "nueva",
+   "nota_revision": "El último párrafo queda cortado en la fuente ('…alguna sensación surgida durante la').",
+   "texto": {
+    "subtitulo": "Una experiencia para conectar con la calma, la seguridad y el refugio interior",
+    "bloques": [
+     {"t": "p", "v": "En momentos de estrés, incertidumbre o agotamiento emocional, muchas personas necesitan volver a un espacio interno donde puedan sentirse tranquilas, sostenidas y en paz."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a crear y explorar un “lugar seguro” a través de una visualización guiada enfocada en la calma y la contención emocional."},
+     {"t": "paso", "v": "Prepara un ambiente cómodo y silencioso donde el grupo pueda sentarse o recostarse sin interrupciones. Puedes acompañar la experiencia con música suave, sonidos naturales o iluminación tenue para favorecer la relajación y la introspección."},
+     {"t": "paso", "v": "Comienza guiando unas respiraciones lentas para ayudar al grupo a liberar tensión y conectar con el momento presente."},
+     {"t": "paso", "v": "Después, invita a los participantes a imaginar un lugar donde se sientan completamente seguros y en calma. Puede ser un espacio real o imaginario: una playa, un bosque, una montaña, una habitación acogedora o cualquier entorno que despierte sensación de tranquilidad y protección."},
+     {"t": "paso", "v": "Guía la experiencia invitando a observar: los colores, los sonidos, la temperatura, las texturas y las emociones que aparecen dentro de ese lugar."},
+     {"t": "frases", "v": ["Permite que este espacio te sostenga.", "No necesitas hacer nada más que estar aquí.", "Recuerda que siempre puedes volver a este lugar dentro de ti."]},
+     {"t": "paso", "v": "Después de unos minutos de visualización y silencio, invita al grupo a regresar lentamente al espacio y observar cómo se siente el cuerpo después de la experiencia."},
+     {"t": "paso", "v": "Quienes lo deseen pueden escribir o compartir alguna sensación surgida durante la [texto cortado en la fuente]"}
+    ]
+   }},
+  {"n": 59, "titulo": "Ceremonia de Reconocimiento Personal", "sep": 124, "paginas": [125], "relacion": "nueva",
+   "texto": {
+    "subtitulo": "Un espacio para honrar el camino recorrido y reconocer el propio crecimiento",
+    "bloques": [
+     {"t": "p", "v": "Muchas veces avanzamos tanto mirando lo que falta que olvidamos reconocer todo lo que ya hemos atravesado, aprendido y transformado."},
+     {"t": "p", "v": "Esta dinámica invita a los participantes a detenerse y observar con más conciencia su propio recorrido, reconociendo fortalezas, aprendizajes y procesos personales que merecen ser valorados."},
+     {"t": "paso", "v": "Prepara un ambiente íntimo y cálido, acompañado de iluminación suave, velas o música tranquila que favorezca la introspección y la conexión emocional."},
+     {"t": "paso", "v": "Invita al grupo a sentarse en círculo y comenzar con unas respiraciones conscientes para ayudar a entrar en un estado de mayor presencia."},
+     {"t": "paso", "v": "Después, guía una breve reflexión sobre todo aquello que cada persona ha logrado sostener, superar o transformar a lo largo de su vida."},
+     {"t": "preguntas", "v": ["¿Qué parte de mi camino merece hoy ser reconocida?", "¿Qué desafío me ayudó a crecer más de lo que imaginaba?", "¿Qué fortaleza descubrí en mí durante este proceso?", "¿Qué versión de mí estoy aprendiendo a valorar más?"]},
+     {"t": "paso", "v": "Invita a los participantes a escribir unas palabras hacia sí mismos desde el reconocimiento y la gratitud personal."},
+     {"t": "nota", "v": "La intención no es alimentar el ego, sino aprender a observar el propio camino con más respeto, humanidad y compasión."},
+     {"t": "paso", "v": "Quienes lo deseen pueden compartir una reflexión, una palabra o un aprendizaje importante con el grupo."},
+     {"t": "paso", "v": "Al finalizar, puedes cerrar con unos minutos de silencio consciente o una breve práctica de respiración para integrar la experiencia."}
+    ]
+   }},
+  {"n": 60, "titulo": "Cierre de Integración Colectiva", "sep": 126, "paginas": [127], "relacion": "variante_de", "principal": "P59",
+   "nota": "Versión narrativa del Círculo de Cierre del Retiro: mismo texto de apertura y mismas cuatro categorías para compartir."},
+  {"n": 61, "titulo": "Ritual de Intención al Amanecer", "sep": 128, "paginas": [129], "relacion": "equivalente", "principal": "P60"},
+  {"n": 62, "titulo": "Meditación de Reconexión Interior", "sep": 130, "paginas": [131], "relacion": "equivalente", "principal": "P61"},
+  {"n": 63, "titulo": "Dinámica de Conexión Humana", "sep": 132, "paginas": [133], "relacion": "equivalente", "principal": "P63"},
+  {"n": 64, "titulo": "Ritual de Gratitud al Grupo", "sep": 134, "paginas": [135], "relacion": "variante_de", "principal": "P19",
+   "nota": "Misma estructura central que el Ritual de Gratitud Colectiva (círculo de gratitud con gesto colectivo de cierre), centrada en agradecer a las personas del grupo.",
+   "texto": {
+    "subtitulo": "Un momento para reconocer la conexión, el apoyo y la experiencia compartida",
+    "bloques": [
+     {"t": "paso", "v": "Prepara un ambiente cálido e íntimo, acompañado de velas, música suave o iluminación tenue. Invita a los participantes a reunirse en círculo y comenzar con unas respiraciones conscientes."},
+     {"t": "paso", "v": "Guía una breve reflexión sobre la importancia de los encuentros humanos y cómo cada persona aporta algo único dentro de una experiencia grupal."},
+     {"t": "preguntas", "v": ["¿Qué aprendiste gracias a las personas de este grupo?", "¿Qué conexión o conversación dejó huella en ti?", "¿Qué te gustaría agradecer hoy?"]},
+     {"t": "paso", "v": "Invita a cada participante a expresar unas palabras de gratitud hacia el grupo, hacia una persona en particular o hacia la experiencia compartida. No es necesario decir algo perfecto."},
+     {"t": "paso", "v": "Puedes cerrar la experiencia con un gesto colectivo: una respiración compartida, un abrazo grupal, unas palabras finales o unos minutos de silencio consciente."}
+    ]
+   }},
+  {"n": 65, "titulo": "Ceremonia de Cierre Final", "sep": 136, "paginas": [137], "relacion": "variante_de", "principal": "P59",
+   "nota": "Prácticamente la misma propuesta que el Círculo de Cierre del Retiro y el Cierre de Integración Colectiva (apertura en círculo, compartir aprendizaje/emoción/gratitud/intención, gesto simbólico colectivo)."}
+ ]
+}

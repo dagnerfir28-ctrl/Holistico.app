@@ -1,0 +1,43 @@
+{
+ "archivo": "Más de 60 dinámicas retiros holísticos .pdf",
+ "drive_id": "1f5oGLZK0lqECrOOYml_ZSLFyzhvwHcki",
+ "compartido": "Cualquier persona con el enlace (según el panel de Drive)",
+ "paginas": 129,
+ "metodo_lectura": "Visor de Google Drive en el navegador del propietario. Las fichas no tienen capa de texto (son imágenes); solo los separadores tienen texto seleccionable. Lectura visual página por página y transcripción manual.",
+ "composicion": {
+  "portada": [1],
+  "aviso_de_uso": [2],
+  "indice": [3],
+  "plantilla_sin_reemplazar": [38],
+  "cierre": [129],
+  "separadores": 62,
+  "paginas_de_ficha": 62
+ },
+ "portada": "Más de 60 dinámicas para retiros holísticos — Guía práctica para crear experiencias profundas, organizadas y transformadoras — Estructura · Conexión · Transformación",
+ "aviso_de_uso": "Contenido original y exclusivo. Material protegido por derechos de autor. Prohibida su distribución, reventa o divulgación sin autorización. Este contenido fue creado exclusivamente para uso personal y profesional dentro de tus retiros. No es un producto PLR.",
+ "indice": {
+  "anuncia": {"dinamicas": "60+", "categorias": 12, "paginas": 141},
+  "categorias_visibles": 9,
+  "entradas_listadas": 35,
+  "categorias": [
+   {"nombre": "Presencia y atención plena", "entradas": ["01 Círculo de Gratitud", "02 Meditación de respiración consciente", "03 Caminata consciente", "04 Meditación del Templo Interior"]},
+   {"nombre": "Conexión y empatía", "entradas": ["05 Círculo de Espejos", "06 Mandala colectivo", "07 Viaje de los arquetipos", "08 Mesa redonda sobre valores"]},
+   {"nombre": "Sanación emocional", "entradas": ["09 Jardín de las Emociones", "10 Escritura libre", "11 Círculo de confianza", "12 Mapa de la vida"]},
+   {"nombre": "Experiencias filosóficas y espirituales", "entradas": ["13 Café Filosófico", "14 Ritual de Transmutación", "16 Laberinto del autodescubrimiento"]},
+   {"nombre": "Prácticas y rituales ancestrales", "entradas": ["17 Ritual de sanación ancestral", "18 Círculo de Afirmaciones", "19 Experimentando Colores", "20 Ejercicio de Escucha Activa"]},
+   {"nombre": "Chakras y energía", "entradas": ["21 Viaje a través de los chakras", "22 Espejo de las sombras", "23 Ritual del perdón", "24 Constelación onírica"]},
+   {"nombre": "Viajes chamánicos y meditativos", "entradas": ["25 Viaje Chamánico Guiado", "26 Círculo de Transformación Alquímica", "27 Escaneo Corporal", "28 Círculo de Compartir Intenciones"]},
+   {"nombre": "Conexión con la naturaleza", "entradas": ["29 Meditación del Árbol", "30 Viaje de las Emociones", "31 Ritual del Espejo", "32 Círculo de Sabiduría Colectiva"]},
+   {"nombre": "Renacimiento y transformación", "entradas": ["33 Ritual de Renacimiento Simbólico", "34 Mapa de Cuentos", "35 Red de la Vida", "36 Meditación del Sonido Interior"]}
+  ],
+  "titulos_del_indice_sin_ficha": ["Círculo de confianza", "Mapa de la vida", "Café Filosófico", "Ritual de Transmutación", "Laberinto del autodescubrimiento", "Ritual de sanación ancestral", "Círculo de Afirmaciones", "Experimentando Colores", "Ejercicio de Escucha Activa", "Ritual del Espejo", "Círculo de Sabiduría Colectiva", "Ritual de Renacimiento Simbólico", "Mapa de Cuentos"],
+  "numero_15_ausente_del_indice": true
+ },
+ "pagina_38": "Plantilla 'Reto de 30 días' con texto de relleno sin reemplazar ('Del fastidio proviene el placer de los deberes…'), sin separador ni ficha asociada.",
+ "cierre_129": "Gracias por formar parte de esta experiencia — Tu próximo retiro puede transformar vidas — Ahora tienes más de 60 dinámicas para crear experiencias profundas, humanas y memorables. Que este sea el inicio de algo significativo.",
+ "pies_de_pagina": "Las fichas 1–52 muestran 'N / 60+'; desde la 60 el pie cambia a 'N / 63'. La última ficha se presenta como 'Dinámica final · 63 de 63'.",
+ "categorias_en_encabezados_de_ficha": "Los encabezados de categoría de cada ficha ('DINÁMICA NN · CATEGORÍA') no siempre corresponden al índice; p. ej., 'Espejo de las Sombras' figura bajo 'Trabajando con los chakras y la energía' y 'Neurociencia de la Transformación' bajo 'Reprogramación mental y creencias'.",
+ "duplicados_exactos": [{"pagina": 46, "igual_a": 44, "metodo": "comparación de huella visual (diferencia media 0,00)"}, {"pagina": 56, "igual_a": 54, "metodo": "comparación de huella visual (diferencia media 0,00)"}],
+ "separador_incorrecto": [{"separador": 75, "dice": "36. Red de la Vida", "ficha": 76, "desarrolla": "Meditación del Sonido Interior"}, {"separador": 125, "dice": "61 Y 62 Meditación de Reconexión Interior", "ficha": 126, "desarrolla": "Una sola dinámica (61)"}],
+ "fichas_incompletas": [{"pagina": 112, "titulo": "Ritual de Renacimiento", "falta": "Desarrollo, integración, cierre y recomendaciones"}, {"pagina": 110, "titulo": "El Puente de la Confianza", "falta": "La recomendación 02 queda cortada; no hay recomendación 03"}]
+}

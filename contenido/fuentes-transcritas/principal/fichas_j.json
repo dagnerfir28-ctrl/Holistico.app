@@ -1,0 +1,386 @@
+[
+ {
+  "page": 102,
+  "sep_page": 101,
+  "sep": "49. Círculo de Vulnerabilidad",
+  "header": "DINÁMICA 49 · CONEXIÓN Y EMPATÍA",
+  "title": "Círculo de Vulnerabilidad",
+  "subtitle": "Un espacio para mostrarse tal como se es — y descubrir que en eso estamos todos juntos",
+  "meta": [
+   [
+    "Duración",
+    "45 – 60 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Círculo"
+   ],
+   [
+    "Nivel",
+    "Profundo"
+   ],
+   [
+    "Energía",
+    "Honesta · Vincular"
+   ]
+  ],
+  "contexto": "La vulnerabilidad no es debilidad — es el terreno donde nacen las conexiones más reales. Esta dinámica invita a los participantes a abrirse desde la honestidad, compartiendo desde un lugar más humano y consciente, y descubrir que al mostrarnos tal como somos, nos acercamos a los demás en lugar de alejarnos.",
+  "objetivo": "Crear un espacio de expresión auténtica donde los participantes puedan mostrarse tal como se sienten en este momento, profundizando la confianza y la conexión humana dentro del grupo.",
+  "materiales": [
+   "Espacio en círculo con iluminación cálida",
+   "Vela central como foco de presencia",
+   "Pañuelos disponibles y visibles",
+   "Música suave solo para la apertura"
+  ],
+  "secciones": [
+   {
+    "titulo": "Acuerdos del círculo",
+    "items": [
+     "Lo que se comparte aquí permanece aquí — confidencialidad absoluta dentro del grupo.",
+     "Escuchamos sin interrumpir, sin aconsejar y sin intentar \"arreglar\" lo que el otro siente.",
+     "Nadie está obligado a compartir — el silencio también es una forma válida de presencia."
+    ]
+   },
+   {
+    "titulo": "Preguntas para abrir el espacio",
+    "tipo": "preguntas",
+    "items": [
+     "¿Qué parte de mí suelo ocultar por miedo a ser juzgado?",
+     "¿Qué emoción necesito expresar hoy con más honestidad?",
+     "¿Qué me cuesta mostrar cuando estoy con otras personas?"
+    ],
+    "nota": "No es obligatorio responder las tres preguntas. Invita a compartir desde donde cada persona se sienta lista — incluso una sola frase auténtica puede ser más poderosa que un discurso largo."
+   },
+   {
+    "titulo": "Frases para acompañar el círculo",
+    "tipo": "frases",
+    "items": [
+     "La vulnerabilidad no es debilidad — es la puerta hacia la conexión real.",
+     "Mostrarte tal como eres es un acto de valentía que inspira a los demás a hacer lo mismo.",
+     "Sentirse escuchado sin necesidad de \"arreglarse\" también puede transformar."
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura y acuerdos",
+    "tiempo": "8 minutos",
+    "texto": [
+     "Crea el ambiente íntimo con vela encendida. Lee los tres acuerdos del círculo con calma y asegúrate de que el grupo los comprenda y acepte antes de comenzar."
+    ]
+   },
+   {
+    "fase": "Espacio de apertura",
+    "tiempo": "30 – 40 minutos",
+    "texto": [
+     "Comparte tú primero desde la vulnerabilidad — modela el nivel de apertura que invitas. Luego abre el espacio para que quienes lo deseen compartan desde las preguntas guía."
+    ],
+    "citas": [
+     "A veces, sentirse escuchado sin necesidad de cambiar nada es exactamente lo que más necesitamos."
+    ]
+   },
+   {
+    "fase": "Cierre",
+    "tiempo": "8 – 10 minutos",
+    "texto": [
+     "Cierra con una respiración colectiva o unos minutos de silencio consciente. Puedes invitar a una palabra de cierre de cada persona — algo que se llevan de este espacio."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Comparte tú primero y con autenticidad real — el nivel de apertura del facilitador establece el permiso para que el grupo vaya a esa misma profundidad.",
+   "Nunca interrumpas ni intentes consolar mientras alguien habla — tu presencia silenciosa y receptiva es la forma más poderosa de sostener el espacio.",
+   "Esta dinámica requiere que el grupo tenga un nivel mínimo de confianza previo — no la uses en la primera sesión del retiro."
+  ]
+ },
+ {
+  "page": 104,
+  "sep_page": 103,
+  "sep": "50. Conexión con los Cuatro Elementos",
+  "header": "DINÁMICA 50 · CONEXIÓN CON LA NATURALEZA",
+  "title": "Conexión con los Cuatro Elementos",
+  "subtitle": "Una experiencia sensorial para reconectar con las energías primordiales de la naturaleza",
+  "meta": [
+   [
+    "Duración",
+    "60 – 75 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Vivencial"
+   ],
+   [
+    "Espacio",
+    "Interior o exterior"
+   ],
+   [
+    "Energía",
+    "Sensorial · Enraizante"
+   ]
+  ],
+  "contexto": "La tierra, el agua, el fuego y el aire han sido símbolos de transformación y equilibrio en tradiciones de todo el mundo. Esta experiencia invita a los participantes a explorar la relación entre los elementos de la naturaleza y su propio mundo interior a través de la presencia sensorial y la reflexión.",
+  "objetivo": "Reconectar a los participantes con las cuatro energías elementales como espejo de su mundo interior, desarrollando presencia sensorial y autoconocimiento a través de la naturaleza.",
+  "materiales": [
+   "Vela encendida — fuego",
+   "Cuenco con agua — agua",
+   "Tierra, piedra o plantas — tierra",
+   "Incienso, pluma o ventilación natural — aire"
+  ],
+  "secciones": [
+   {
+    "titulo": "Los cuatro elementos y su mundo interior",
+    "items": [
+     "Fuego · Pasión · Voluntad — La fuerza que impulsa, la pasión que mueve y la voluntad que sostiene el camino. Pregunta: ¿Dónde arde mi fuego en este momento?",
+     "Agua · Emoción · Fluidez — Las emociones que fluyen, se estancan o desbordandepen y la capacidad de adaptarse. Pregunta: ¿Dónde necesito más fluidez en mi vida?",
+     "Tierra · Estabilidad · Cuerpo — El enraizamiento, la seguridad y la presencia física que sostiene todo lo demás. Pregunta: ¿Dónde necesito más estabilidad o arraigo?",
+     "Aire · Mente · Claridad — El pensamiento, la comunicación y la libertad de expandirse más allá de los límites conocidos. Pregunta: ¿Qué aspecto de mi vida pide más ligereza?"
+    ]
+   },
+   {
+    "titulo": "Preguntas integradoras",
+    "tipo": "preguntas",
+    "items": [
+     "¿Qué elemento representa mejor tu energía en este momento?",
+     "¿Qué elemento sientes que más te falta o más necesitas cultivar?",
+     "¿Cómo podrías traer ese elemento de forma más consciente a tu vida cotidiana?"
+    ],
+    "nota": "Anima a los participantes a conectar más con la experiencia sensorial que con el análisis racional. El cuerpo siente los elementos antes de que la mente los interprete."
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Preparación del espacio",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Dispone las cuatro estaciones elementales en el espacio — cada una con su objeto representativo. Preséntalo brevemente y explica la intención de recorrerlas de forma consciente y lenta."
+    ]
+   },
+   {
+    "fase": "Recorrido sensorial",
+    "tiempo": "30 – 40 minutos",
+    "texto": [
+     "Invita al grupo a recorrer cada estación de manera individual y pausada, observando las sensaciones, emociones y pensamientos que aparecen en cada espacio elemental."
+    ],
+    "citas": [
+     "La naturaleza también puede ser un espejo de nuestro proceso interno — si aprendemos a escucharla."
+    ]
+   },
+   {
+    "fase": "Reflexión escrita",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Después del recorrido, invita a explorar las tres preguntas integradoras en silencio y por escrito."
+    ]
+   },
+   {
+    "fase": "Compartir y cierre",
+    "tiempo": "10 minutos",
+    "texto": [
+     "Reúne al grupo para compartir qué elemento resonó más y qué descubrieron sobre sí mismos. Cierra con una respiración colectiva honrando los cuatro elementos."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Si el espacio exterior lo permite, realiza la dinámica en la naturaleza — el contacto directo con los elementos amplifica enormemente la experiencia.",
+   "Prepara las estaciones con cuidado y belleza — la calidad visual y sensorial de cada espacio elemental comunica antes que el participante llegue.",
+   "Deja tiempo generoso en cada estación — no menos de 6 a 8 minutos por elemento para que la experiencia sea realmente sensorial y no solo conceptual."
+  ]
+ },
+ {
+  "page": 106,
+  "sep_page": 105,
+  "sep": "51. Danza de Liberación Emocional",
+  "header": "DINÁMICA 51 · SANACIÓN EMOCIONAL",
+  "title": "Danza de Liberación Emocional",
+  "subtitle": "Una experiencia de movimiento consciente para expresar y liberar lo que el cuerpo lleva guardado",
+  "meta": [
+   [
+    "Duración",
+    "45 – 60 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Movimiento"
+   ],
+   [
+    "Espacio",
+    "Amplio · Despejado"
+   ],
+   [
+    "Energía",
+    "Expresiva · Catártica"
+   ]
+  ],
+  "contexto": "El cuerpo muchas veces expresa aquello que las palabras no alcanzan a decir. Esta dinámica invita a los participantes a liberar tensión, emociones y energía acumulada a través del movimiento consciente — sin técnica, sin coreografía, solo presencia y permiso.",
+  "objetivo": "Permitir que los participantes expresen y liberen emociones acumuladas a través del movimiento corporal libre y consciente, restaurando la conexión entre el cuerpo, la emoción y la presencia.",
+  "materiales": [
+   "Espacio amplio libre de obstáculos",
+   "Música progresiva e instrumental variada",
+   "Agua disponible para los participantes",
+   "Pañuelos disponibles"
+  ],
+  "secciones": [
+   {
+    "titulo": "Emociones que el movimiento puede liberar",
+    "items": [
+     "Tristeza — Movimientos lentos, pesados, hacia el suelo",
+     "Enojo — Movimientos fuertes, percusivos, hacia afuera",
+     "Miedo — Movimientos pequeños que crecen gradualmente",
+     "Tensión — Sacudir el cuerpo, soltar, vibrar",
+     "Alegría — Movimientos expansivos, ligeros, hacia arriba",
+     "Calma — Movimientos circulares, fluidos, integradores"
+    ],
+    "nota": "No es necesario decir al grupo qué emoción liberar — la música y el movimiento libre llevan naturalmente al cuerpo a lo que necesita expresar."
+   },
+   {
+    "titulo": "Frases para acompañar",
+    "tipo": "frases",
+    "items": [
+     "Deja que el cuerpo encuentre su propia forma de expresarse.",
+     "No te preocupes por cómo se ve — solo por cómo se siente.",
+     "El movimiento auténtico siempre lleva algo hacia afuera."
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Apertura corporal",
+    "tiempo": "8 minutos",
+    "texto": [
+     "Guía al grupo a conectar con el cuerpo desde la quietud — respiraciones profundas, sacudir las manos, rotar el cuello. Introduce la intención: no hay movimiento correcto, solo movimiento honesto."
+    ]
+   },
+   {
+    "fase": "Movimiento libre",
+    "tiempo": "30 – 40 minutos",
+    "texto": [
+     "Pon la música y deja que el grupo se mueva libremente. Comienza con música lenta y deja que la energía suba gradualmente con el ritmo. Muévete tú también — tu presencia sostiene el espacio."
+    ],
+    "citas": [
+     "El cuerpo sabe exactamente qué necesita liberar — nuestra tarea es darle permiso para hacerlo."
+    ]
+   },
+   {
+    "fase": "Aterrizaje",
+    "tiempo": "8 – 10 minutos",
+    "texto": [
+     "La música desciende lentamente hasta el silencio. Invita al grupo a recostarse, llevar las manos al corazón y respirar conscientemente, integrando lo que el movimiento liberó."
+    ]
+   },
+   {
+    "fase": "Compartir",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Quienes lo deseen comparten qué surgió durante el movimiento — qué emoción emergió, qué se liberó o qué se descubrió. No hay análisis — solo compartir desde la experiencia."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Recuerda al inicio que no es una clase de baile — es un espacio de expresión. Esa diferencia libera a quienes se sienten \"malos bailarines\".",
+   "Si alguien llora durante el movimiento, es señal de que la dinámica está funcionando — no intervengas, solo sostén el espacio con tu presencia tranquila.",
+   "La fase de aterrizaje es tan importante como el movimiento — no la omitas nunca. Sin ella, el grupo puede quedar en un estado de alta energía sin integrar."
+  ],
+  "editorial_flags": [
+   "La recomendación 02 equipara llanto con eficacia de la dinámica y sugiere no intervenir: el brief prohíbe afirmar que llorar demuestra que una actividad funciona y que siempre hay que abstenerse de intervenir. Requiere reescritura editorial antes de publicar."
+  ]
+ },
+ {
+  "page": 108,
+  "sep_page": 107,
+  "sep": "52. Meditación de la Gratitud",
+  "header": "DINÁMICA 52 · PRESENCIA Y ATENCIÓN PLENA",
+  "title": "Meditación de la Gratitud",
+  "subtitle": "Una práctica de presencia consciente para reconectar con la abundancia que ya existe",
+  "meta": [
+   [
+    "Duración",
+    "30 – 45 minutos"
+   ],
+   [
+    "Tipo",
+    "Grupal · Meditación"
+   ],
+   [
+    "Nivel",
+    "Todos los niveles"
+   ],
+   [
+    "Energía",
+    "Luminosa · Receptiva"
+   ]
+  ],
+  "contexto": "La gratitud cambia la manera en que observamos nuestra vida. Cuando hacemos una pausa para reconocer aquello que sí está presente, aparece una sensación más profunda de calma, conexión y plenitud. Esta práctica invita a los participantes a entrar en un estado de presencia consciente a través de la gratitud genuina.",
+  "objetivo": "Cultivar un estado de presencia y apertura emocional a través de la gratitud consciente, conectando con personas, experiencias y aspectos de la vida que sostienen y enriquecen el camino.",
+  "materiales": [
+   "Cojines o esterillas para sentarse",
+   "Música suave e instrumental",
+   "Iluminación cálida o velas",
+   "Papel para escribir al finalizar (opcional)"
+  ],
+  "secciones": [
+   {
+    "titulo": "Áreas de gratitud para explorar",
+    "items": [
+     "Personas que me sostienen y quieren",
+     "Aprendizajes y crecimiento personal",
+     "Momentos que cambiaron algo en mí",
+     "La salud, el cuerpo y la naturaleza",
+     "Las pequeñas cosas que dan sentido al día",
+     "El hogar y el espacio que me sostiene"
+    ],
+    "nota": "La intención no es \"pensar positivo\" — sino permitir que la gratitud se convierta en una experiencia genuina y sentida en el cuerpo, no solo en la mente."
+   },
+   {
+    "titulo": "Frases para guiar la meditación",
+    "tipo": "frases",
+    "items": [
+     "Permite que la gratitud expanda tu atención más allá de lo que te preocupa.",
+     "Reconoce aquello que hoy sostiene tu vida — aunque sea pequeño.",
+     "A veces, lo más valioso ya está presente."
+    ]
+   }
+  ],
+  "desarrollo_titulo": "Desarrollo de la dinámica",
+  "desarrollo": [
+   {
+    "fase": "Preparación",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Invita al grupo a sentarse o recostarse cómodamente. Guía unas respiraciones lentas para relajar el cuerpo y aquietar la mente antes de entrar en la meditación."
+    ]
+   },
+   {
+    "fase": "Meditación de gratitud",
+    "tiempo": "15 – 25 minutos",
+    "texto": [
+     "Guía al grupo a través de las áreas de gratitud usando las frases suaves. Dedica unos minutos a cada área, invitando a conectar no solo con pensamientos sino también con las emociones y sensaciones que aparecen."
+    ],
+    "citas": [
+     "La gratitud no es negación del dolor — es la capacidad de ver también lo que sostiene, incluso cuando duele."
+    ]
+   },
+   {
+    "fase": "Integración",
+    "tiempo": "5 – 8 minutos",
+    "texto": [
+     "Deja unos minutos de silencio para integrar. Puedes invitar a escribir una palabra, una frase o una reflexión breve sobre lo que emergió durante la práctica."
+    ]
+   },
+   {
+    "fase": "Compartir",
+    "tiempo": "5 minutos",
+    "texto": [
+     "Quienes lo deseen comparten una palabra o momento de gratitud. Cierra con una respiración colectiva de reconocimiento hacia lo que cada uno lleva en la vida."
+    ]
+   }
+  ],
+  "recomendaciones": [
+   "Diferencia gratitud de pensamiento positivo — la gratitud genuina puede coexistir con el dolor y no lo niega.",
+   "Habla lento y deja pausas largas — la gratitud necesita tiempo para descender de la mente al corazón y al cuerpo.",
+   "Esta dinámica funciona muy bien como apertura del día — la gratitud pone al grupo en un estado receptivo y abierto para lo que viene."
+  ]
+ }
+]

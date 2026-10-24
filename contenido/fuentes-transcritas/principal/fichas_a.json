@@ -1,0 +1,221 @@
+[
+{
+ "page": 5, "sep_page": 4, "sep": "1.Círculo de Gratitud", "header": null,
+ "title": "Círculo de Gratitud",
+ "subtitle": "Una práctica para abrir espacios de conexión, presencia y reconocimiento compartido",
+ "meta": [["Duración", "30 – 45 minutos"], ["Tipo", "Grupal · Círculo"], ["Nivel", "Apertura"], ["Energía", "Suave · Receptiva"]],
+ "contexto": null,
+ "objetivo": "Crear un momento de apertura emocional donde los participantes puedan expresar gratitud, fortalecer la conexión grupal y entrar en el retiro desde una energía de presencia y autenticidad.",
+ "materiales": ["Una vela central (opcional)", "Cojines o esterillas para sentarse", "Objeto simbólico como bastón de la palabra (piedra, cristal o cuenco)", "Música suave de fondo (opcional)"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "5 minutos", "texto": ["Invita al grupo a sentarse en círculo y realizar respiraciones profundas para llegar al momento presente.", "Presenta la intención: crear un espacio seguro para compartir desde la gratitud y la escucha consciente."]},
+  {"fase": "Compartir", "tiempo": "15 – 30 minutos", "texto": ["Entrega el objeto simbólico a una persona y explica que quien lo sostiene tiene la palabra.", "Cada participante comparte algo por lo que se siente agradecido en este momento de su vida.", "Invita al grupo a escuchar sin interrumpir y permitir que cada experiencia tenga su propio espacio."]},
+  {"fase": "Integración", "tiempo": "5 – 10 minutos", "texto": ["Abre un momento de reflexión grupal con estas preguntas:"], "citas": ["¿Cómo te sentiste al compartir?", "¿Qué surgió al escuchar las experiencias de los demás?"]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza con una respiración colectiva, unos segundos de silencio o una palabra compartida por el grupo."]}
+ ],
+ "recomendaciones": ["Mantén un tono cálido y pausado durante toda la práctica.", "No apresures los silencios — forman parte del ritual.", "Prioriza la escucha y la contención emocional del grupo por encima de todo."]
+},
+{
+ "page": 7, "sep_page": 6, "sep": "2. Respiración Consciente", "header": null,
+ "title": "Meditación de Respiración Consciente",
+ "subtitle": "Una práctica para volver al presente desde la calma y la atención plena",
+ "meta": [["Duración", "30 – 40 minutos"], ["Tipo", "Grupal · Meditación"], ["Nivel", "Apertura"], ["Energía", "Serena · Introspectiva"]],
+ "contexto": null,
+ "objetivo": "Ayudar al grupo a reducir el ruido mental y conectar con el momento presente a través de la respiración consciente como ancla de atención.",
+ "materiales": ["Cojines o esterillas", "Música suave de fondo (opcional)", "Campana o cuenco tibetano para marcar inicios y cierres (opcional)"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la práctica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "5 minutos", "texto": ["Invita a los participantes a sentarse cómodamente y cerrar suavemente los ojos.", "Guía una breve llegada al momento presente a través de respiraciones lentas y profundas."]},
+  {"fase": "Respiración consciente", "tiempo": "10 – 15 minutos", "texto": ["Acompaña al grupo a observar el ritmo natural de su respiración, llevando la atención al aire entrando y saliendo del cuerpo."], "citas": ["No necesitas controlar la respiración, solo observarla.", "Cada respiración es una oportunidad para volver al presente."]},
+  {"fase": "Integración", "tiempo": "10 minutos", "texto": ["Abre un pequeño espacio para compartir sensaciones, emociones o reflexiones surgidas durante la práctica."]},
+  {"fase": "Cierre", "tiempo": "3 minutos", "texto": ["Finaliza con una respiración colectiva y unos segundos de silencio consciente compartido."]}
+ ],
+ "recomendaciones": ["Mantén un tono pausado y sereno durante toda la práctica.", "Permite los silencios naturales — son parte esencial del proceso.", "Evita corregir o forzar la experiencia de los participantes; cada proceso es válido."]
+},
+{
+ "page": 21, "sep_page": 20, "sep": "9. Jardín de las Emociones", "header": "DINÁMICA 09 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Jardín de las Emociones",
+ "subtitle": "Una experiencia para reconocer, expresar y transformar el mundo emocional interior",
+ "meta": [["Duración", "60 – 90 minutos"], ["Tipo", "Individual · Creativo"], ["Espacio", "Naturaleza o interior"], ["Energía", "Suave · Introspectiva"]],
+ "contexto": "Las emociones que no escuchamos suelen quedarse dentro de nosotros más tiempo del que imaginamos. Esta dinámica invita a los participantes a observar sus emociones con mayor presencia y sensibilidad, creando un espacio seguro para reconocer aquello que sienten sin necesidad de ocultarlo o corregirlo.",
+ "objetivo": "Crear un espacio seguro donde cada participante pueda representar simbólicamente su mundo emocional a través del arte, cultivando conciencia e inteligencia emocional.",
+ "materiales": ["Hojas o papel grande", "Lápices de colores o pinturas", "Elementos naturales (flores, hojas, tierra)", "Música suave de fondo (opcional)"],
+ "secciones": [
+  {"titulo": "Formas posibles de expresión", "items": ["Colores y formas", "Palabras o frases", "Flores y caminos", "Tormentas o vacíos"], "nota": "No hay una manera correcta de hacerlo. Lo importante es permitir que cada persona exprese lo que vive internamente desde la honestidad y la intuición."}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Prepara un ambiente tranquilo y acogedor, preferiblemente rodeado de naturaleza o con elementos naturales. Guía una breve reflexión sobre cómo las emociones, al igual que un jardín, necesitan atención, cuidado y espacio para expresarse."]},
+  {"fase": "Creación del jardín", "tiempo": "30 – 40 minutos", "texto": ["Entrega los materiales e invita a cada participante a representar simbólicamente su jardín emocional. Permite que el ejercicio ocurra sin prisas y sin interpretar lo que cada persona crea."], "citas": ["¿Qué emociones necesitan más atención en este momento?", "¿Qué partes de tu jardín necesitan descanso o transformación?", "¿Qué emociones has estado evitando sentir?"]},
+  {"fase": "Compartir voluntario", "tiempo": "15 minutos", "texto": ["Abre un pequeño espacio para compartir voluntariamente la experiencia, reflexiones o emociones que surgieron durante la dinámica."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Invita al grupo a elegir una intención emocional que deseen cultivar con más consciencia a partir del retiro."]}
+ ],
+ "recomendaciones": ["No interpretes ni analices lo que cada persona crea — tu rol es sostener el espacio, no leer el jardín ajeno.", "Si emergen emociones intensas, recibe al participante con calma y sin apresurarte a resolverlo.", "El compartir al final es siempre voluntario — nunca fuerces ni presiones la exposición personal."]
+},
+{
+ "page": 23, "sep_page": 22, "sep": "10. Escritura Libre", "header": "DINÁMICA 10 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Escritura Libre",
+ "subtitle": "Un espacio para liberar pensamientos, emociones y la voz interior sin filtros",
+ "meta": [["Duración", "45 – 60 minutos"], ["Tipo", "Individual · Escritura"], ["Nivel", "Todos los niveles"], ["Energía", "Silenciosa · Liberadora"]],
+ "contexto": "A veces, escribir permite decir aquello que llevamos demasiado tiempo guardando. Esta experiencia invita a los participantes a conectar con su mundo interior a través de una escritura espontánea, honesta y sin filtros.",
+ "objetivo": "Ofrecer un espacio de escritura libre donde las emociones, pensamientos y reflexiones encuentren un canal de expresión sin juicio, corrección ni estructura.",
+ "materiales": ["Papel o cuaderno individual", "Bolígrafos o lápices", "Espacio silencioso y cómodo", "Música instrumental suave (opcional)"],
+ "secciones": [
+  {"titulo": "Frases guía para acompañar", "tipo": "frases", "items": ["Escribe aquello que necesitas escuchar.", "No pienses demasiado, solo permite que las palabras aparezcan.", "A veces, escribir también es una forma de sanar."]},
+  {"titulo": "Preguntas de inspiración (opcionales)", "tipo": "preguntas", "items": ["¿Qué parte de mí necesita ser escuchada hoy?", "¿Qué emoción he estado guardando en silencio?", "¿Qué necesito dejar atrás para avanzar con más ligereza?", "¿Qué quiero empezar a decirme con más amor y verdad?"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "5 minutos", "texto": ["Prepara un ambiente silencioso y tranquilo. Guía unas respiraciones suaves o unos minutos de silencio consciente antes de iniciar la escritura."]},
+  {"fase": "Escritura libre", "tiempo": "25 – 35 minutos", "texto": ["Invita al grupo a escribir durante varios minutos sin detenerse a pensar, corregir o estructurar lo que aparece."], "nota": "La intención no es escribir \"bien\", sino permitir que las emociones y reflexiones encuentren un espacio para expresarse libremente. El proceso ocurre en silencio y sin interrupciones."},
+  {"fase": "Compartir voluntario", "tiempo": "10 minutos", "texto": ["Invita a quienes lo deseen a compartir una frase, reflexión o descubrimiento surgido durante la experiencia. No es necesario leer todo lo escrito."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Cierra con una frase de integración: a veces, simplemente escribirlo ya transforma algo dentro de nosotros."]}
+ ],
+ "recomendaciones": ["Guarda silencio durante la escritura — tu presencia tranquila protege el espacio interior de cada persona.", "Nunca pidas que alguien lea lo que escribió; el compartir siempre es voluntario.", "Si alguien se bloquea, recuérdale suavemente que puede escribir incluso eso: \"no sé qué escribir\"."]
+},
+{
+ "page": 25, "sep_page": 24, "sep": "11. Ritual de Liberación", "header": "DINÁMICA 11 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Ritual de Liberación",
+ "subtitle": "Una experiencia simbólica para soltar aquello que ya no necesita seguir contigo",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Grupal · Ritual"], ["Momento", "Atardecer · Noche"], ["Energía", "Transformadora · Íntima"]],
+ "contexto": "Hay momentos en los que avanzar también implica aprender a dejar ir. Esta dinámica invita a los participantes a reconocer pensamientos, emociones, miedos o situaciones que sienten listos para ser liberados, creando un espacio consciente de cierre y transformación.",
+ "objetivo": "Crear un espacio simbólico y seguro donde los participantes puedan soltar conscientemente aquello que ya no les sirve, abriendo paso a la transformación.",
+ "materiales": ["Papel y bolígrafos", "Velas o fuego simbólico (si el espacio lo permite)", "Cuenco con agua o tierra (según el ritual elegido)", "Música suave de fondo o silencio"],
+ "secciones": [
+  {"titulo": "Actos simbólicos de liberación", "items": ["Quemar el papel de forma segura", "Colocarlo en agua hasta que se disuelva", "Enterrarlo en la tierra", "Romperlo con las manos"], "nota": "Lo importante no es el ritual en sí, sino la intención emocional detrás del gesto. Que cada participante elija el acto que resuene más con su proceso."},
+  {"titulo": "Frases para acompañar la experiencia", "tipo": "frases", "items": ["Honrar también es aprender a soltar.", "No necesitas seguir cargando aquello que ya cumplió su ciclo.", "Cada cierre abre espacio para algo nuevo."]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Preparación", "tiempo": "10 minutos", "texto": ["Prepara el ambiente íntimo y seguro. Guía una breve reflexión sobre aquello que seguimos cargando sin darnos cuenta: creencias, culpas, vínculos o emociones que ya no aportan bienestar."]},
+  {"fase": "Escritura consciente", "tiempo": "15 – 20 minutos", "texto": ["Entrega papel y bolígrafos. Invita a cada participante a escribir aquello que desea soltar. No es necesario compartirlo con nadie — la experiencia es completamente personal."]},
+  {"fase": "Acto simbólico", "tiempo": "15 minutos", "texto": ["Cuando todos hayan terminado, invita al grupo a realizar el acto simbólico elegido con plena consciencia e intención. Acompaña con música o silencio según el grupo."]},
+  {"fase": "Integración y cierre", "tiempo": "10 minutos", "texto": ["Reúne nuevamente al grupo para respirar juntos y permitir que el momento se integre desde la calma y la presencia. Finaliza en silencio o con una palabra compartida."]}
+ ],
+ "recomendaciones": ["Si usas fuego, asegúrate de tener un cuenco resistente al calor y siempre supervisar el proceso.", "Recuerda al grupo que nadie está obligado a compartir lo que escribió — la privacidad es sagrada en este ritual.", "Si emergen emociones intensas durante el acto simbólico, sostén el espacio con calma — eso es exactamente lo que necesita ocurrir."]
+},
+{
+ "page": 27, "sep_page": 26, "sep": "12. Mapa de Sueños e Intenciones", "header": "DINÁMICA 12 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Mapa de Sueños e Intenciones",
+ "subtitle": "Una experiencia para visualizar el futuro desde la claridad y la conexión interior",
+ "meta": [["Duración", "90 – 120 minutos"], ["Tipo", "Individual · Visual"], ["Nivel", "Todos los niveles"], ["Energía", "Expansiva · Creadora"]],
+ "contexto": "Muchas veces, aquello que deseamos crear necesita primero ser visto con intención. Esta dinámica invita a los participantes a conectar con sus sueños, metas y deseos más auténticos, transformándolos en una representación visual que les permita reconocer hacia dónde quieren dirigir su energía.",
+ "objetivo": "Construir un mapa visual personal de sueños e intenciones que permita a cada participante clarificar, sentir y dar forma a la vida que desea comenzar a crear.",
+ "materiales": ["Revistas, imágenes y frases recortables", "Cartulina o papel grande", "Tijeras, pegamento y colores", "Música inspiradora de fondo"],
+ "secciones": [
+  {"titulo": "Los 4 cuadrantes del mapa", "items": ["¿Qué deseo manifestar? — Sueños, metas y deseos concretos que quiero traer a mi vida", "¿Cómo quiero sentirme? — Estados emocionales, sensaciones y calidad de vida que busco", "¿Qué deseo fortalecer? — Hábitos, vínculos, habilidades o áreas de mi vida que quiero cultivar", "¿Qué caminos quiero construir? — Pasos, decisiones o direcciones que quiero comenzar a tomar"], "nota": "Anima a dejarse llevar por la intuición más que por la lógica. No se trata de crear algo perfecto, sino de dar forma visible a aquello que hoy vive dentro de ellos."}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Prepara el espacio creativo con todos los materiales al centro. Guía una breve reflexión sobre el poder de las intenciones y la importancia de construir una vida alineada con lo que realmente queremos."]},
+  {"fase": "Creación del mapa", "tiempo": "60 – 75 minutos", "texto": ["Invita al grupo a crear su mapa visual con imágenes, palabras, símbolos o frases siguiendo los 4 cuadrantes. Acompaña con música inspiradora y presencia tranquila."]},
+  {"fase": "Contemplación", "tiempo": "10 minutos", "texto": ["Invita a cada persona a observar su creación en silencio y conectar con la emoción detrás de cada imagen o palabra elegida."], "citas": ["¿Qué versión de mí quiero empezar a construir?", "¿Qué áreas de mi vida necesitan más atención y expansión?", "¿Cómo quiero sentirme en los próximos meses?"]},
+  {"fase": "Cierre", "tiempo": "10 minutos", "texto": ["Quienes lo deseen pueden compartir parte de su experiencia con el grupo. Cierra invitando a cada persona a llevarse su mapa como guía visual para los meses siguientes."]}
+ ],
+ "recomendaciones": ["Prepara abundante material visual — revistas, frases, imágenes impresas — para que nadie se quede sin recursos creativos.", "Recuerda al grupo que el mapa no es un plan rígido, sino un espejo de lo que hoy resuena dentro de ellos.", "Sugiere fotografiar el mapa al finalizar para que cada participante lo tenga siempre disponible como recordatorio visual."]
+},
+{
+ "page": 29, "sep_page": 28, "sep": "13. Conexión con el Niño Interior", "header": "DINÁMICA 13 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Conexión con el Niño Interior",
+ "subtitle": "Una experiencia para reconectar con la sensibilidad, la autenticidad y la parte más vulnerable del ser",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Individual · Escritura"], ["Nivel", "Profundo"], ["Energía", "Compasiva · Vulnerable"]],
+ "contexto": "Dentro de cada persona sigue existiendo una versión más sensible, espontánea y emocional que muchas veces quedó olvidada entre las exigencias de la vida adulta. Esta dinámica invita a los participantes a reconectar con su niño interior desde la compasión, la escucha y el cuidado emocional.",
+ "objetivo": "Crear un espacio seguro donde los participantes puedan reconectar con su niño interior a través de la visualización y la escritura, cultivando compasión, amor propio y sanación emocional.",
+ "materiales": ["Papel y bolígrafos", "Música suave e iluminación cálida", "Esterillas o cojines para recostarse", "Pañuelos disponibles (por si emergen emociones)"],
+ "secciones": [
+  {"titulo": "Qué observar en la visualización", "items": ["Cómo se ve esa versión más joven de mí", "Qué siente y qué emociones lo acompañan", "Qué necesita escuchar de mí hoy", "Qué emociones aún permanecen guardadas"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Preparación del espacio", "tiempo": "5 minutos", "texto": ["Crea un ambiente tranquilo y seguro con música suave e iluminación cálida. Invita al grupo a recostarse cómodamente y cerrar los ojos."]},
+  {"fase": "Visualización guiada", "tiempo": "15 – 20 minutos", "texto": ["Guía al grupo a imaginar una versión más joven de sí mismos. Invita a observar los cuatro aspectos de la tabla superior con voz suave y pausada."], "nota": "Permite que cada participante viva el proceso a su propio ritmo. No intervengas ni guíes demasiado — el espacio interior tiene su propio tiempo."},
+  {"fase": "Carta al niño interior", "tiempo": "20 – 25 minutos", "texto": ["Entrega papel y bolígrafos. Invita a escribir una carta dirigida a ese niño o niña interior — palabras de comprensión, amor, apoyo o perdón."], "citas": ["¿Qué necesitaba escuchar esa versión de ti?", "¿Qué heridas aún buscan atención o cuidado?", "¿Qué parte de tu autenticidad deseas recuperar hoy?"]},
+  {"fase": "Cierre", "tiempo": "10 minutos", "texto": ["Abre un pequeño espacio voluntario para compartir reflexiones. Cierra con unos minutos de respiración consciente y silencio — permitiendo que la experiencia se integre desde la calma."]}
+ ],
+ "recomendaciones": ["Ten pañuelos disponibles y visibles — es habitual que esta dinámica mueva emociones profundas.", "Narra la visualización con mucha suavidad y sin prisas — el niño interior responde a la calma, no a la urgencia.", "Nunca presiones a compartir la carta — lo escrito pertenece solo a quien lo escribió."]
+},
+{
+ "page": 31, "sep_page": 30, "sep": "14. Círculo de Escucha Consciente", "header": "DINÁMICA 14 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Círculo de Escucha Consciente",
+ "subtitle": "Una experiencia para fortalecer la presencia, la empatía y la conexión auténtica",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Grupal · Círculo"], ["Nivel", "Todos los niveles"], ["Energía", "Receptiva · Presente"]],
+ "contexto": "Ser escuchados de verdad puede transformar mucho más de lo que imaginamos. Esta dinámica invita al grupo a experimentar una forma de comunicación más presente y humana, donde cada persona tenga el espacio de expresarse sin interrupciones, juicios o necesidad de dar respuestas inmediatas.",
+ "objetivo": "Crear un espacio donde cada persona pueda sentirse vista y escuchada con autenticidad, cultivando la presencia plena como práctica de conexión y sanación grupal.",
+ "materiales": ["Objeto simbólico como bastón de la palabra", "Cojines o sillas dispuestas en círculo", "Música suave solo para la apertura", "Vela central como foco de presencia (opcional)"],
+ "secciones": [
+  {"titulo": "Temas posibles para compartir", "items": ["Algo que estoy atravesando actualmente", "Una emoción que necesita ser expresada", "Un aprendizaje reciente que quiero nombrar", "Aquello que deseo transformar en mi vida"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Organiza al grupo en círculo con un ambiente tranquilo. Comienza con unas respiraciones profundas o unos minutos de silencio para entrar en energía más consciente."]},
+  {"fase": "El bastón de la palabra", "tiempo": "35 – 45 minutos", "texto": ["Coloca el objeto simbólico en el centro o úsalo como bastón de la palabra. Quien lo sostiene tiene el espacio para hablar; el resto escucha con presencia y apertura."], "nota": "Invita al grupo a escuchar sin interrumpir, aconsejar ni intentar solucionar la experiencia del otro. La intención es crear un espacio donde cada persona se sienta genuinamente vista."},
+  {"fase": "Integración", "tiempo": "10 minutos", "texto": ["Reúne al grupo para compartir cómo se sintieron al hablar y al escuchar desde la presencia."], "citas": ["A veces, la escucha consciente también es una forma de sanación."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza con una respiración colectiva en silencio o una palabra de gratitud compartida por cada participante."]}
+ ],
+ "recomendaciones": ["Modela tú la escucha activa — tu atención plena durante el turno de cada persona enseña más que cualquier instrucción.", "Si alguien habla demasiado largo, puedes hacer una señal suave con la mano para invitar a cerrar — sin interrumpir abruptamente.", "Recuerda al inicio que nadie está obligado a hablar — la escucha en silencio también es una forma válida de participar."]
+},
+{
+ "page": 33, "sep_page": 32, "sep": "15. Ceremonia de Intenciones", "header": "DINÁMICA 15 · PRÁCTICAS DE SANACIÓN EMOCIONAL",
+ "title": "Ceremonia de Intenciones",
+ "subtitle": "Un espacio para conectar con aquello que deseas cultivar y manifestar en tu vida",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Individual · Ritual"], ["Momento", "Cierre del retiro"], ["Energía", "Clara · Comprometida"]],
+ "contexto": "Toda transformación comienza con una intención clara. Esta experiencia invita a los participantes a detenerse, mirar hacia dentro y reconocer qué desean fortalecer, soltar o comenzar a construir a partir del retiro.",
+ "objetivo": "Crear un momento consciente de conexión y claridad interior donde cada participante pueda nombrar y sostener una intención personal que guíe su camino después del retiro.",
+ "materiales": ["Velas — una por participante (opcional)", "Papel especial o tarjetas para escribir", "Elementos naturales: flores, piedras, tierra", "Música suave o cuenco tibetano para marcar el inicio"],
+ "secciones": [
+  {"titulo": "Preguntas para conectar con la intención", "tipo": "preguntas", "items": ["¿Qué quiero empezar a cultivar en mi vida?", "¿Qué energía deseo fortalecer a partir de este momento?", "¿Qué decisión o cambio necesita más presencia y compromiso?", "¿Qué me llevo de este retiro que quiero honrar en mi vida cotidiana?"]},
+  {"titulo": "Rituales simbólicos de cierre", "items": ["Encender una vela personal mientras se lee la intención en voz alta o en silencio", "Guardar la intención escrita en un sobre especial para abrirlo en una fecha futura", "Realizar una respiración colectiva en silencio como sello final de la ceremonia"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Prepara el ambiente cálido e íntimo con velas, música suave o elementos naturales. Guía una breve meditación o respiración consciente para conectar con la intención desde la calma."]},
+  {"fase": "Escritura de la intención", "tiempo": "20 – 25 minutos", "texto": ["Invita a cada participante a escribir su intención personal usando las preguntas guía como inspiración."], "nota": "No tiene que ser perfecta ni definitiva. La idea es conectar con aquello que hoy necesita más energía, claridad o dirección — no crear un compromiso rígido."},
+  {"fase": "Compartir voluntario", "tiempo": "15 – 20 minutos", "texto": ["Quienes lo deseen pueden compartir su intención con el grupo. Recibe cada intención con silencio y presencia — sin comentarios ni aplausos que rompan la atmósfera ceremonial."]},
+  {"fase": "Ritual de cierre", "tiempo": "10 minutos", "texto": ["Acompaña el cierre con uno de los rituales simbólicos de la sección superior. Finaliza con una respiración colectiva que selle la ceremonia."], "citas": ["La intención no es manifestar perfecto, sino crear un momento consciente de conexión y claridad interior."]}
+ ],
+ "recomendaciones": ["Usa esta dinámica como cierre del retiro — su energía de compromiso e intención funciona mejor al final del proceso.", "Recibe cada intención compartida desde el silencio — sin aplausos ni comentarios que saquen al grupo del estado ceremonial.", "Sugiere a los participantes guardar su intención escrita en un lugar visible para recordarla en los días siguientes."]
+},
+{
+ "page": 35, "sep_page": 34, "sep": "16. Baño de Sonido y Relajación", "header": "DINÁMICA 16 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+ "title": "Baño de Sonido y Relajación",
+ "subtitle": "Una experiencia para calmar la mente, relajar el cuerpo y favorecer un estado de presencia profunda",
+ "meta": [["Duración", "45 – 75 minutos"], ["Tipo", "Grupal · Receptivo"], ["Nivel", "Todos los niveles"], ["Energía", "Profunda · Restauradora"]],
+ "contexto": "El sonido tiene la capacidad de acompañarnos hacia espacios de calma, introspección y descanso emocional. Esta dinámica invita a los participantes a desconectarse del ruido externo y entrar en una experiencia de relajación consciente a través de sonidos suaves y vibraciones armónicas.",
+ "objetivo": "Guiar al grupo hacia un estado de relajación profunda y presencia plena a través de la vibración y el sonido, favoreciendo el descanso del sistema nervioso y la reconexión interior.",
+ "materiales": ["Esterillas, mantas o colchonetas", "Almohadas o cojines de apoyo", "Instrumentos de sonido (ver sección inferior)", "Vendas para los ojos (opcional)"],
+ "secciones": [
+  {"titulo": "Instrumentos recomendados", "items": ["Cuencos tibetanos", "Campanas de cristal", "Handpan", "Sonidos naturales", "Música ambiental", "Flauta o didgeridoo"]},
+  {"titulo": "Frases para acompañar la experiencia", "tipo": "frases", "items": ["Permite que el sonido te acompañe.", "No necesitas controlar la experiencia.", "Solo respira y recibe."]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Preparación", "tiempo": "10 minutos", "texto": ["Prepara el espacio cómodo y silencioso. Invita a los participantes a recostarse, cerrar los ojos y permitir que el cuerpo descanse sin necesidad de hacer nada."]},
+  {"fase": "Baño de sonido", "tiempo": "30 – 50 minutos", "texto": ["A medida que los sonidos aparecen, guía suavemente la atención hacia la respiración, las sensaciones físicas y el momento presente. Usa las frases guía de forma espaciada y sin saturar."], "nota": "Deja largas pausas entre frases — el silencio entre los sonidos es tan importante como los sonidos mismos."},
+  {"fase": "Transición suave", "tiempo": "5 – 10 minutos", "texto": ["Permite unos minutos de silencio y quietud antes de invitar al grupo a regresar lentamente: mover los dedos, estirar el cuerpo, abrir los ojos despacio."]},
+  {"fase": "Integración", "tiempo": "5 minutos", "texto": ["Quienes lo deseen pueden compartir cómo se sintieron. También es válido permanecer en silencio — algunos necesitan más tiempo para integrar."]}
+ ],
+ "recomendaciones": ["Si no tienes instrumentos en vivo, una playlist de alta calidad de cuencos tibetanos funciona muy bien — lo que importa es la intención del espacio.", "Muévete con suavidad por el espacio si tocas instrumentos en vivo — evita ruidos bruscos o movimientos que rompan el estado de relajación.", "La transición de regreso es tan importante como el baño mismo — no apresures el cierre; es donde la experiencia se integra en el cuerpo."]
+},
+{
+ "page": 37, "sep_page": 36, "sep": "17. Círculo de Historias de Vida", "header": "DINÁMICA 17 · EXPERIENCIAS FILOSÓFICAS Y ESPIRITUALES",
+ "title": "Círculo de Historias de Vida",
+ "subtitle": "Una experiencia para compartir aprendizajes, emociones y experiencias desde la autenticidad",
+ "meta": [["Duración", "60 – 90 minutos"], ["Tipo", "Grupal · Círculo"], ["Nivel", "Intermedio"], ["Energía", "Auténtica · Vincular"]],
+ "contexto": "Cada persona lleva consigo historias que han marcado su camino, sus decisiones y su forma de ver la vida. Esta dinámica invita al grupo a abrir un espacio de escucha y conexión humana a través de relatos personales compartidos desde la honestidad y la presencia.",
+ "objetivo": "Crear un espacio de conexión profunda donde los participantes puedan compartir relatos significativos de sus vidas, reconociendo que las experiencias humanas nos unen más de lo que imaginamos.",
+ "materiales": ["Espacio íntimo en círculo", "Iluminación cálida y velas (opcional)", "Objeto simbólico como bastón de la palabra", "Música suave solo para la apertura"],
+ "secciones": [
+  {"titulo": "Preguntas para invitar al relato", "tipo": "preguntas", "items": ["¿Qué experiencia cambió la manera en que ves la vida?", "¿Qué aprendizaje marcó un antes y un después en tu camino?", "¿Qué parte de tu historia merece hoy ser reconocida?"], "cita": "No es necesario contar toda la historia. A veces, un momento pequeño también puede contener una gran transformación."}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Prepara el ambiente íntimo con iluminación cálida y música suave. Invita al grupo a sentarse en círculo y comenzar con unos minutos de respiración consciente para crear una energía de calma y apertura."]},
+  {"fase": "Relatos compartidos", "tiempo": "40 – 60 minutos", "texto": ["Propone compartir una experiencia significativa que haya dejado un aprendizaje importante. Usa las preguntas guía como puerta de entrada, no como cuestionario."], "nota": "Invita al grupo a escuchar desde la empatía y la presencia, sin interrumpir ni intentar aconsejar. La intención no es encontrar respuestas perfectas, sino recordar que las experiencias humanas nos unen."},
+  {"fase": "Cierre", "tiempo": "10 minutos", "texto": ["Finaliza con una breve reflexión colectiva o unos minutos de silencio consciente, permitiendo que los relatos escuchados se integren desde la gratitud."]}
+ ],
+ "recomendaciones": ["Comparte tú también una historia breve al inicio — modela la vulnerabilidad que invitas al grupo a vivir.", "Recuerda antes de comenzar que lo compartido en el círculo es confidencial y no sale del espacio.", "Si alguien se emociona al hablar, sostén el silencio — no intervengas con palabras; tu presencia tranquila ya acompaña."]
+}
+]

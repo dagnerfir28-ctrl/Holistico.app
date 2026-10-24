@@ -1,0 +1,33 @@
+{
+ "archivo": "Sistema Profesional para Facilitadores de Retiros Holísticos",
+ "drive_id": "1zJH6d3rhcGlJGLxVU77oUieXFu0pg9EM",
+ "paginas": 50,
+ "capa_de_texto": "Ninguna (todas las páginas son imágenes). Revisión visual: miniaturas de las 50 páginas y lectura detallada de las páginas 2, 3, 4 y 27.",
+ "anuncia": {"titulo_portada": "Manual de Dinámicas — 108 experiencias para facilitar procesos con presencia, intención y cuidado", "categorias": 12, "dinamicas": 108, "suaves": 54, "altas": 54, "paginas_de_dinamicas": 270, "estimado_total": "330–390 páginas"},
+ "contenido_real": "Portada (p1), índice (p2), guía de lectura (p3–p6) y fichas infográficas de dos familias: PA (Presencia y Atención) y CC (Conexión y Confianza), aprox. p7–p50. No se verifican 108 actividades.",
+ "territorios_indice": ["01 Presencia y Atención (PA)", "02 Conexión y Confianza (CC)", "03 Autoconocimiento (AC)", "04 Regulación Corporal (RC)", "05 Expresión Emocional (EE)", "06 Creatividad Simbólica (CS)", "07 Naturaleza y Elementos (NE)", "08 Propósito y Visión (PV)", "09 Vínculos y Comunicación (VC)", "10 Ritual y Transición (RT)", "11 Integración Colectiva (IC)", "12 Cierre y Regreso (CR)"],
+ "inconsistencias_detectadas": [
+  "Círculo de Gratitud aparece con dos códigos: 'PA-01' (p7) y 'PA-S01' (p8).",
+  "Respiración Consciente aparece como PA-S02 (p10) y como PA-S07 (p21).",
+  "En el índice dos territorios llevan el número 12 (Integración Colectiva y Cierre y Regreso).",
+  "El Templo Interior (PA-A02, p27) indica 45–60 min; el PDF principal indica 60–75 min y sus fases suman 35–40 min."
+ ],
+ "marco_de_intensidad": {
+  "pagina": 4,
+  "S_suave": "Experiencias de menor intensidad, más accesibles y progresivas. Requieren menos preparación y contención que una dinámica alta. 'Suave no significa superficial.' Ideal para llegadas, activaciones suaves, conexión, reflexión, expresión inicial, regulación leve, integración cotidiana y encuentros donde se busca crear un ambiente seguro y progresivo.",
+  "A_alta": "Experiencias de mayor intensidad, exposición simbólica o emocional, y mayor complejidad de contención y acompañamiento. 'No es más difícil. Es más profunda.' Ideal para trabajos profundos, liberación emocional, procesos simbólicos, exploración interior, rituales, confrontaciones conscientes y transiciones significativas.",
+  "estructura_suave": ["Objetivo", "Ficha rápida", "Cuándo utilizar", "Cuándo evitar", "Materiales", "Preparación del espacio", "Consentimiento", "Flujo general", "Cronograma", "Guion de apertura", "Desarrollo guiado", "Pausas e indicaciones", "Qué observar", "Respuestas rápidas", "Integración", "Guion de cierre", "Adaptaciones", "Dinámica anterior y siguiente"],
+  "estructura_alta": ["Requisitos previos", "Cuándo utilizar", "Cuándo no utilizar", "Semáforo de decisión", "Preparación del espacio", "Materiales y seguridad", "Consentimiento reforzado", "Cronograma completo", "Guion de apertura", "Preparación emocional", "Desarrollo en escenas", "Indicaciones internas", "Qué observar", "Cuándo pausar", "Punto de no retorno", "Cofacilitación", "Contingencias frecuentes", "Respuestas exactas", "Integración principal", "Integraciones alternativas", "Guion de cierre", "Recuperación posterior", "Adaptaciones", "Errores frecuentes", "Dinámica anterior y siguiente", "Checklist de cierre"]
+ },
+ "ejemplo_PA_A02_templo_interior": {
+  "pagina": 27,
+  "intensidad": "Alta", "nivel_facilitador": "Medio – Avanzado",
+  "ficha_rapida": {"duracion_total": "45 – 60 min", "participantes": "8 a 30 personas", "nivel_del_grupo": "Todos", "tiempo_de_integracion": "10 – 15 min", "materiales": "Cojines, mantas, velas, cartulinas, lápices", "espacio": "Interior tranquilo", "movimiento": "Bajo", "escritura": "Sí", "contacto_fisico": "No", "modalidad": "Presencial / Online"},
+  "cuando_utilizarla": ["Apertura de retiro o jornada.", "Inicio del día.", "Después de actividades intensas.", "Cuando el grupo está disperso o acelerado.", "Antes de procesos profundos o conversaciones importantes."],
+  "cuando_no_utilizarla": ["Cuando hay crisis emocional sin contención.", "Cuando el grupo está muy resistente al silencio.", "En espacios ruidosos o con interrupciones constantes.", "Si hay participantes bajo efectos de sustancias."],
+  "semaforo": {"ideal": "Grupos cansados, con dispersión mental o emocional. Inicio del día o después de actividad intensa.", "adaptar": "Si hay mucha resistencia al silencio o momentos de crisis individual.", "no_realizar": "En crisis emocional aguda o si el grupo no tiene estabilidad mínima de seguridad."},
+  "principio_profesional": "La seguridad psicológica siempre precede a la profundidad emocional.",
+  "no_importado": "Porcentajes 'Yin 60% | Yang 40%' y 'resultado esperado' (no se presentan como mediciones)."
+ },
+ "uso_en_la_app": "Solo como referencia para las orientaciones editoriales (consentimiento, cuándo evitar, criterios de pausa) y para la estructura de campos. Ninguna actividad del Sistema Profesional se publica en el catálogo."
+}

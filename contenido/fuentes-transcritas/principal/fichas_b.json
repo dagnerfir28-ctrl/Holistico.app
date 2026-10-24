@@ -1,0 +1,114 @@
+[
+{
+ "page": 9, "sep_page": 8, "sep": "3. Caminata Consciente", "header": null,
+ "title": "Caminata Consciente",
+ "subtitle": "Una práctica para reconectar con el cuerpo, la respiración y el entorno natural",
+ "meta": [["Duración", "45 – 60 minutos"], ["Tipo", "Grupal · Movimiento"], ["Espacio", "Exterior · Naturaleza"], ["Energía", "Suave · Enraizante"]],
+ "contexto": null,
+ "objetivo": "Invitar a los participantes a salir del ritmo automático y volver al momento presente a través del movimiento consciente y la conexión con la naturaleza.",
+ "materiales": ["Espacio natural tranquilo", "Calzado cómodo", "Agua para los participantes", "Campana o instrumento suave (opcional)"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la práctica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "5 minutos", "texto": ["Reúne al grupo y presenta la intención: caminar con atención plena, llevando presencia a cada paso y a las sensaciones del cuerpo.", "Invita a comenzar con unas respiraciones profundas antes de iniciar el recorrido."]},
+  {"fase": "Caminata consciente", "tiempo": "20 – 30 minutos", "texto": ["Guía al grupo a caminar lentamente y en silencio, observando sonidos, texturas, temperatura y movimiento sin necesidad de analizarlos."], "citas": ["Siente el contacto de tus pies con el suelo.", "Observa tu respiración mientras caminas.", "Permite que el entorno forme parte de la experiencia."]},
+  {"fase": "Pausa e integración", "tiempo": "10 minutos", "texto": ["Haz una pausa durante el recorrido e invita al grupo a cerrar los ojos unos instantes.", "Permite que cada persona observe cómo se siente física y emocionalmente después de caminar en presencia."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza reuniendo al grupo para compartir brevemente la experiencia o cerrar con un momento de silencio consciente."]}
+ ],
+ "recomendaciones": ["Camina tú también en silencio — tu presencia modela la del grupo.", "Elige un entorno con poca distracción visual o sonora artificial.", "Usa la campana o instrumento suave para señalar las transiciones sin romper la atmósfera."]
+},
+{
+ "page": 11, "sep_page": 10, "sep": "4. Viaje al Templo Interior", "header": null,
+ "title": "Meditación del Templo Interior",
+ "subtitle": "Una visualización guiada para conectar con la calma, la intuición y la sabiduría interior",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Grupal · Visualización"], ["Nivel", "Profundo"], ["Energía", "Introspectiva · Sagrada"]],
+ "contexto": null,
+ "objetivo": "Guiar a los participantes hacia un espacio de introspección profunda a través de una experiencia de relajación y visualización consciente que conecta con la sabiduría interior.",
+ "materiales": ["Esterillas, cojines o mantas", "Música suave o sonidos ambientales", "Velas o iluminación tenue (opcional)", "Papel y lápices para reflexionar al finalizar (opcional)"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la práctica",
+ "desarrollo": [
+  {"fase": "Preparación", "tiempo": "5 minutos", "texto": ["Invita al grupo a recostarse cómodamente y cerrar suavemente los ojos.", "Crea un ambiente tranquilo con luz tenue y respiraciones lentas para ayudar a relajar el cuerpo."]},
+  {"fase": "Visualización guiada", "tiempo": "15 – 20 minutos", "texto": ["Comienza a narrar el viaje con voz pausada y serena, invitando a los participantes a imaginar un sendero natural rodeado de árboles, silencio y luz suave."], "citas": ["A medida que avanzan, aparece un templo en medio de la naturaleza: un espacio simbólico de sabiduría, claridad y conexión interior."], "nota": "Permite que cada persona explore ese lugar desde su propia experiencia y significado, sin guiar en exceso."},
+  {"fase": "Integración", "tiempo": "10 minutos", "texto": ["Deja unos minutos de silencio después de la visualización antes de invitar al grupo a escribir o compartir lo que vivieron durante la práctica."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza con respiraciones profundas y una transición suave de regreso al momento presente."]}
+ ],
+ "recomendaciones": ["Narra con voz lenta, pausas largas y tono suave — el ritmo de tu voz es el ritmo de la práctica.", "Prepara el espacio antes de que lleguen los participantes: luz, temperatura y música ya ambientados.", "Respeta el silencio posterior — no apresures el regreso; la integración comienza ahí."]
+},
+{
+ "page": 13, "sep_page": 12, "sep": "5. Círculo de Espejos", "header": null,
+ "title": "Círculo de Espejos",
+ "subtitle": "Una dinámica para fortalecer la escucha, la empatía y la conexión humana",
+ "meta": [["Duración", "60 – 75 minutos"], ["Tipo", "Parejas · Círculo"], ["Nivel", "Intermedio"], ["Energía", "Receptiva · Vincular"]],
+ "contexto": null,
+ "objetivo": "Crear un espacio de escucha consciente donde los participantes puedan sentirse vistos, comprendidos y acompañados desde la empatía.",
+ "materiales": ["Espacio cómodo y tranquilo", "Cronómetro o temporizador", "Papel y bolígrafos para reflexión escrita (opcional)"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Introducción", "tiempo": "5 minutos", "texto": ["Explica la intención: escuchar al otro con presencia plena, sin intentar corregir, aconsejar o interpretar su experiencia.", "Invita al grupo a entrar desde el respeto y la confidencialidad."]},
+  {"fase": "Trabajo en parejas", "tiempo": "20 – 30 minutos", "texto": ["Forma parejas y asigna quién comenzará compartiendo. La primera persona habla sobre una experiencia, emoción o desafío personal.", "Quien escucha presta atención plena sin interrumpir. Luego refleja las emociones e ideas que percibió durante la conversación."], "nota": "Después intercambian roles para que ambas personas vivan las dos experiencias: hablar y ser escuchado."},
+  {"fase": "Reflexión grupal", "tiempo": "10 – 15 minutos", "texto": ["Reúne al grupo e invita a compartir cómo se sintieron al ser escuchados y al escuchar desde la presencia."], "citas": ["¿Qué cambió cuando te sentiste realmente escuchado?", "¿Cómo fue escuchar sin intentar responder o solucionar?"]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza con un momento de silencio, respiración consciente o una breve reflexión grupal sobre la importancia de la escucha en los vínculos humanos."]}
+ ],
+ "recomendaciones": ["Recuerda al grupo que no se trata de dar soluciones — solo de presencia y reflejo.", "Usa el temporizador con discreción para que no rompa la atmósfera de intimidad.", "Si surgen emociones fuertes, sostén el espacio con calma y recuerda que forman parte del proceso."]
+},
+{
+ "page": 15, "sep_page": 14, "sep": "6. Mandala Colectivo", "header": null,
+ "title": "Mandala Colectivo",
+ "subtitle": "Una experiencia creativa para fortalecer la conexión, la expresión y el sentido de unidad",
+ "meta": [["Duración", "90 – 120 minutos"], ["Tipo", "Grupal · Arte"], ["Nivel", "Intermedio"], ["Energía", "Creativa · Unificadora"]],
+ "contexto": null,
+ "objetivo": "Invitar al grupo a crear una obra colectiva que represente la conexión entre las personas, la creatividad compartida y el proceso de transformación vivido durante el retiro.",
+ "materiales": ["Papel grande o cartulina", "Lápices, pinturas o materiales de arte", "Tijeras, pegamento y revistas (opcional)", "Cojines, esterillas y música suave de fondo"],
+ "secciones": [],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Reúne al grupo alrededor del espacio creativo y presenta la intención: crear un mandala colectivo desde la intuición y la colaboración.", "Invita a los participantes a conectar con lo que desean expresar o aportar al grupo a través del arte."]},
+  {"fase": "Conexión e inspiración", "tiempo": "10 – 15 minutos", "texto": ["Guía una breve visualización o respiración consciente para ayudar al grupo a entrar en un estado más creativo y presente."], "citas": ["Todo lo que crees forma parte del todo.", "No buscamos perfección, sino expresión auténtica."]},
+  {"fase": "Creación del mandala", "tiempo": "45 – 60 minutos", "texto": ["Invita a los participantes a intervenir libremente el mandala usando colores, formas, palabras o símbolos que representen su experiencia interior.", "Permite que el proceso ocurra de forma natural, sin demasiadas instrucciones."], "nota": "Anima al grupo a observar cómo cada aporte se integra con el de los demás — el mandala crece como metáfora viva del grupo."},
+  {"fase": "Contemplación e integración", "tiempo": "10 minutos", "texto": ["Cuando el mandala esté finalizado, invita al grupo a observar la creación en silencio durante unos momentos antes de compartir."]},
+  {"fase": "Cierre", "tiempo": "5 minutos", "texto": ["Finaliza agradeciendo la participación colectiva y resaltando cómo cada persona aportó algo único al proceso compartido."]}
+ ],
+ "recomendaciones": ["Prepara el espacio con anticipación: materiales al centro, disposición circular y música lista.", "No intervengas ni dirijas la creación — tu rol es sostener el espacio, no guiar el arte.", "La obra resultante es un símbolo del grupo; considera fotografiarla y compartirla con los participantes al final del retiro."]
+},
+{
+ "page": 17, "sep_page": 16, "sep": "7. Viaje de los Arquetipos", "header": null,
+ "title": "Viaje de los Arquetipos",
+ "subtitle": "Una experiencia de autodescubrimiento para explorar las diferentes partes del ser",
+ "meta": [["Duración", "3 – 4 horas"], ["Tipo", "Grupal · Estaciones"], ["Nivel", "Profundo"], ["Energía", "Exploradora · Simbólica"]],
+ "contexto": null,
+ "objetivo": "Invitar a los participantes a reconocer distintos aspectos de su personalidad y proceso emocional a través de dinámicas inspiradas en los arquetipos.",
+ "materiales": [],
+ "secciones": [
+  {"titulo": "Arquetipos a trabajar", "items": ["El Héroe", "La Sombra", "El Sabio", "El Niño Interior", "El Amante", "El Creador"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Introducción", "tiempo": "15 – 20 minutos", "texto": ["Presenta brevemente el concepto de arquetipos como energías o patrones que influyen en nuestras emociones, decisiones y formas de relacionarnos.", "Invita al grupo a vivir la experiencia desde la curiosidad y la observación personal."]},
+  {"fase": "Recorrido por estaciones", "tiempo": "2 – 3 horas", "texto": ["Organiza diferentes espacios, cada uno representando un arquetipo. En cada estación los participantes reflexionan, escriben, conversan o realizan pequeñas actividades relacionadas con esa energía."], "nota": "Invita a cada persona a observar con cuál arquetipo conecta más y qué emociones o aprendizajes aparecen durante el recorrido."},
+  {"fase": "Integración grupal", "tiempo": "20 – 30 minutos", "texto": ["Reúne nuevamente al grupo para compartir reflexiones sobre la experiencia."], "citas": ["¿Qué arquetipo resonó más contigo?", "¿Qué descubriste sobre ti durante el recorrido?", "¿Qué aspecto de tu vida necesita más atención o integración?"]},
+  {"fase": "Cierre", "tiempo": "10 minutos", "texto": ["Finaliza con una breve reflexión guiada o un ritual simbólico donde cada participante exprese una intención personal para continuar su proceso."]}
+ ],
+ "recomendaciones": ["Prepara cada estación con antelación: ambientación, preguntas y materiales específicos para ese arquetipo.", "Permite que los participantes fluyan entre estaciones a su ritmo — no fuerces un orden rígido.", "Estate disponible para contener emociones que puedan emerger, especialmente en La Sombra y El Niño Interior."]
+},
+{
+ "page": 19, "sep_page": 18, "sep": "8. Mesa Redonda sobre Valores", "header": null,
+ "title": "Mesa Redonda sobre Valores",
+ "subtitle": "Una conversación para reconectar con lo que realmente guía tu vida",
+ "meta": [["Duración", "60 – 90 minutos"], ["Tipo", "Grupal · Diálogo"], ["Nivel", "Profundo"], ["Energía", "Reflexiva · Íntima"]],
+ "contexto": "Hay momentos en los que el ritmo diario nos aleja de aquello que verdaderamente valoramos. Esta experiencia invita al grupo a detenerse, reflexionar y observar con honestidad qué aspectos de su vida se sienten alineados... y cuáles necesitan más coherencia, presencia o autenticidad.",
+ "objetivo": null,
+ "materiales": ["Espacio íntimo en círculo", "Velas y luz cálida", "Té o infusión para el grupo", "Música suave de fondo (opcional)", "Papel y bolígrafos para la intención de cierre"],
+ "secciones": [
+  {"titulo": "Preguntas guía para el diálogo", "tipo": "preguntas", "items": ["¿Qué es realmente importante para mí en este momento de mi vida?", "¿Estoy viviendo de acuerdo con mis valores más profundos?", "¿Qué partes de mi vida se sienten auténticas... y cuáles no?", "¿Qué necesito soltar para sentirme más alineado con quien soy?"]}
+ ],
+ "desarrollo_titulo": "Desarrollo de la dinámica",
+ "desarrollo": [
+  {"fase": "Apertura", "tiempo": "10 minutos", "texto": ["Crea un ambiente íntimo con velas y música suave. Invita a los participantes a sentarse en círculo y comenzar con unos minutos de respiración consciente antes de abrir el diálogo."]},
+  {"fase": "Diálogo abierto", "tiempo": "40 – 60 minutos", "texto": ["Acompaña la conversación con las preguntas guía, permitiendo que las respuestas surjan sin presión ni necesidad de llegar a conclusiones inmediatas."], "nota": "El propósito no es debatir ni aconsejar, sino crear un espacio donde cada persona pueda escucharse a sí misma con más claridad mientras también escucha la experiencia de los demás."},
+  {"fase": "Cierre", "tiempo": "10 minutos", "texto": ["Invita al grupo a escribir una palabra, intención o decisión que represente aquello que desean comenzar a alinear en su vida a partir de este momento."]}
+ ],
+ "recomendaciones": ["Mantén un ambiente seguro y sin juicios — tu tono marca el permiso del grupo para abrirse.", "Evita interrumpir o dirigir demasiado las respuestas; las conversaciones más simples abren las reflexiones más profundas.", "Permite pausas y silencios naturales — prioriza la profundidad antes que la cantidad de participantes que hablen."]
+}
+]
